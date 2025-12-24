@@ -1,0 +1,2 @@
+# netweavers
+Hyprland config
