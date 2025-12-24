@@ -1,2 +1,2 @@
-# netweavers
+# Hyprland-conf
 Hyprland config
