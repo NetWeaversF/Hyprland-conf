@@ -1,0 +1,234 @@
+* {
+font-family: Monterrat, Nerd Font;
+font-size: 14px;
+min-height: 0;
+padding-right: 5px;
+padding-left: 5px;
+padding-bottom: 0px;
+margin: 1px;
+}
+
+window#waybar {
+    background-color: transparent;
+    border-radius: 8px;
+}
+
+
+#waybar > box {
+opacity: 0.9;
+margin-top: 8px;
+margin-left: 10px;
+margin-right: 10px;
+padding-left: 1px;
+padding-right: 1px;
+border: double 2px transparent;
+border-radius: 8px;
+border-width: 1px;
+background: url("ht-banner.png") center,
+linear-gradient(to right bottom, #FF00FF 0%, #8800FF 50%, #0000FF 100%);
+background-origin: border-box;
+background-clip: content-box, border-box;
+background-size: 2560px;
+}
+
+
+#custom-logo {
+background: #101010;
+background-image: url("holotacologo.png");
+background-size: 30px 30px;
+background-repeat: no-repeat;
+background-position: center;
+padding: 0.5rem 1.4rem;
+margin-left: 1rem;
+margin: 5px 0;
+border-radius:  5px;
+}
+
+#workspaces {
+border-radius: 5px;
+margin: 5px;
+background: #101010;
+margin-left: 0.5rem;
+}
+
+#workspaces button {
+border-radius: 5px;
+padding: 0.1rem;
+margin: 0px;
+}
+
+#workspaces button.active {
+color: #9f32ff;
+border-radius: 5px;
+}
+
+#workspaces button:hover {
+padding: 0.1rem;
+margin: 0px;
+border: double 5px transparent;
+border-radius: 5px;
+border-width: 1px;
+border-style: solid;
+background: linear-gradient(#101010,#101010),
+linear-gradient(to right bottom, #FF00FF, #8800FF, #0000FF);
+background-origin: border-box;
+background-clip: content-box, border-box;
+}
+
+#custom-music,
+#tray,
+#backlight,
+#clock,
+#battery,
+#pulseaudio,
+#network,
+#cpu,
+#memory,
+#custom-lock {
+background-color: #101010;
+padding: 0.5rem 1rem;
+margin: 5px 0;
+}
+
+#custom-server_status_1,
+#custom-server_status_2,
+#custom-server_status_3,
+#custom-server_status_4 {
+background-color: #101010;
+padding: 0.5rem 1rem;
+margin: 5px 5px;
+border-radius: 5px;
+background-size: 25px;
+background-repeat: no-repeat;
+background-position: 10px;
+padding-left: 40px;
+padding-right: 10px;
+}
+
+#custom-server_status_1.up{
+    background-image: url("satisfactorylogo.png");
+    color: #c3e88d;
+}
+
+#custom-server_status_2.up {
+background-image: url("Rust-Logo.jpg");
+   color: #c3e88d;
+}
+
+#custom-server_status_3.up {
+background-image: url("truenas.png");
+   color: #c3e88d;
+}
+
+#custom-server_status_4.up {
+background-image: url("homeassistantlogo.jpeg");
+   color: #c3e88d;
+}
+
+#custom-server_status_1.down{
+    background-image: url("satisfactorylogo.png");
+    color: #ea999c;
+}
+
+#custom-server_status_2.down {
+background-image: url("Rust-Logo.jpg");
+   color: #ea999c;
+}
+
+#custom-server_status_3.down {
+background-image: url("truenas.png");
+   color: #ea999c;
+}
+
+#custom-server_status_4.down {
+background-image: url("homeassistantlogo.jpeg");
+   color: #ea999c;
+}
+
+#cpu {
+margin-left: 0.5rem;
+border-radius: 5px;
+}
+
+#network {
+margin-left: 0.5rem;
+border-radius: 5px;
+}
+
+#memory {
+border-radius: 5px 5px 5px 5px;
+margin-left: 0.5rem;
+}
+
+#clock {
+color: #9f32ff;
+border-radius: 5px;
+margin-right: 1rem;
+}
+
+#battery {
+color: #a6d189;
+margin-left: 0.5rem;
+border-radius: 5px;
+}
+
+#battery.charging {
+color: #a6d189;
+}
+
+#battery.warning:not(.charging) {
+color: #e78284;
+}
+
+#backlight {
+color: #e5c890;
+}
+
+#backlight,
+#battery {
+border-radius: 0;
+}
+
+#pulseaudio {
+border-radius: 5px 5px 5px 5%;
+margin-left: 1rem;
+}
+
+#custom-music {
+color: #ca9ee6;
+border-radius: 5px;
+}
+
+#custom-lock {
+border-radius: 5px 0px 0px 5px;
+margin-left: 0.5rem;
+}
+
+
+#tray {
+margin-left: 0.5rem;
+border-radius: 5px;
+}
+
+#custom-updates {
+padding-right: 15px;
+}
+#custom-notification {
+background: #101010;
+font-family: "Bebas Neue Nerd Font";
+font-size: 16px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 5px;
+margin-right: 1rem;
+margin-left: 1rem;
+margin: 5px 0;
+}
+#custom-power {
+margin: 5px 0px 5px 0px;
+background-color: #101010;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 0px 5px 5px 0px;
+margin-right: 0.5rem;
+}

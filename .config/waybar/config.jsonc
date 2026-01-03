@@ -1,0 +1,145 @@
+{
+  "layer": "top",
+  "position": "top",
+  "output": ["DP-1", "DP-2"],
+  "modules-left": [
+        "custom/logo",
+        "hyprland/workspaces",
+        "custom/server_status_1",
+        "custom/server_status_2",
+        "custom/server_status_3",
+        "custom/server_status_4"
+    ],
+  "modules-center": ["clock"],
+  "modules-right": [
+    "pulseaudio",
+    "network",
+    "cpu",
+    "memory",
+    "tray",
+    "custom/lock",
+    "custom/power",
+    "custom/notification"
+  ],
+  "hyprland/workspaces": {
+    "format": "{name}: {icon}",
+    "format-icons": {
+      "active": "",
+      "default": ""
+    },
+    "persistent-workspaces":{
+	"1": [],
+	"2": [],
+	"3": [],
+	"4": [],
+	"5": [],
+	"6": []
+    }
+  },
+
+  "custom/logo": {
+    "format": " "
+  },
+  "tray": {
+    "icon-size": 18,
+    "spacing": 5
+  },
+  "clock": {
+    "timezone": "Europa/Amsterdam",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    "format": "{:%a %d %b %Y  |  %H:%M}"
+  },
+  "network": {
+    "format-wifi": "󰤢 ",
+    "format-ethernet": "󰈀 ",
+    "format-disconnected": "󰤠 ",
+    "interval": 5,
+    "tooltip": false
+  },
+  "cpu": {
+    "interval": 1,
+    "format": "  {icon0}{icon1}{icon2}{icon3}{icon4}{icon5}{icon6}{icon7} {usage:>2}%",
+    "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"]
+  },
+  "memory": {
+    "interval": 30,
+    "format": "  {used:0.1f}G/{total:0.1f}G"
+  },
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-muted": "",
+    "format-icons": {
+      "default": ["", "", " "]
+    },
+    "on-click": "pavucontrol"
+  },
+  "custom/lock": {
+    "tooltip": false,
+    "on-click": "sh -c '(sleep 0.5s; hyprlock)' & disown",
+    "format": ""
+  },
+  "custom/server_status_1": {
+    "format": "{text}",
+    "exec": "~/.local/scripts/check_server_1",
+    "interval": 2,
+    "return-type": "json"
+  },
+  "custom/server_status_2": {
+    "format": "{text}",
+    "exec": "~/.local/scripts/check_server_2",
+    "interval": 2,
+    "return-type": "json",
+    "tooltip": false
+  },
+  "custom/server_status_3": {
+    "format": "{text}",
+    "exec": "~/.local/scripts/check_server_3",
+    "interval": 2,
+    "return-type": "json",
+    "tooltip": false
+  },
+  "custom/server_status_4": {
+    "format": "{text}",
+    "exec": "~/.local/scripts/check_server_4",
+    "interval": 2,
+    "return-type": "json",
+    "tooltip": false
+  },
+  "custom/notification": {
+    "tooltip": false,
+    "format": "{} {icon}",
+    "format-icons": {
+      "notification": "<span foreground='red'><sup></sup></span>",
+      "none": "",
+      "dnd-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-none": "",
+      "inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "inhibited-none": "",
+      "dnd-inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-inhibited-none": ""
+      },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "sleep 0.1 && swaync-client -t -sw",
+    "on-click-right": "sleep 0.1 && swaync-client -d -sw",
+    "escape": true
+  },
+  "custom/power": {
+    "format": "  ",
+    "on-click": "~/.local/scripts/power.sh"
+},
+/*  "custom/power": {
+    "format": "  ",
+    "on-click": "wlogout --protocol layer-shell",
+    "menu": "on-click-right",
+    "menu-file": "~/.config/waybar/power_menu.xml", // Menu file in resources folder
+    "menu-actions": {
+
+        }
+  }, */
+  "later": {
+      "format": "<span class='icon'>{icon}</span> <span class='text'>{text}</span>"
+  }
+
+}

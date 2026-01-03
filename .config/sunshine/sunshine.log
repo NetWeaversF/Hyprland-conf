@@ -1,0 +1,163 @@
+[2026-01-03 11:37:11.123]: Info: Sunshine version: 2025.1230.11628 commit: 2e68762e3659033f455a129405046995f4e3303a
+[2026-01-03 11:37:11.123]: Info: Package Publisher: LizardByte
+[2026-01-03 11:37:11.123]: Info: Publisher Website: https://app.lizardbyte.dev
+[2026-01-03 11:37:11.123]: Info: Get support: https://app.lizardbyte.dev/support
+[2026-01-03 11:37:11.123]: Info: config: 'output_name' = 0
+[2026-01-03 11:37:11.123]: Info: config: 'stream_audio' = disabled
+[2026-01-03 11:37:11.124]: Error: Couldn't load cuda: -1
+[2026-01-03 11:37:11.125]: Info: Found display [wayland-1]
+[2026-01-03 11:37:11.605]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2026-01-03 11:37:11.605]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2026-01-03 11:37:11.605]: Info: Found interface: zwp_linux_dmabuf_v1(62) version 5
+[2026-01-03 11:37:11.605]: Info: Found interface: wl_output(63) version 4
+[2026-01-03 11:37:11.605]: Info: Found interface: wl_output(64) version 4
+[2026-01-03 11:37:11.605]: Info: Found interface: wl_output(65) version 4
+[2026-01-03 11:37:11.605]: Info: Resolution: 3840x2160
+[2026-01-03 11:37:11.605]: Info: Resolution: 2560x1440
+[2026-01-03 11:37:11.605]: Info: Resolution: 1600x1200
+[2026-01-03 11:37:11.605]: Info: Name: DP-1
+[2026-01-03 11:37:11.605]: Info: Found monitor: Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)
+[2026-01-03 11:37:11.605]: Info: Offset: 2560x0
+[2026-01-03 11:37:11.605]: Info: Logical size: 2560x1440
+[2026-01-03 11:37:11.605]: Info: Name: DP-2
+[2026-01-03 11:37:11.605]: Info: Found monitor: Samsung Electric Company LC32G7xT HNBW300710 (DP-2)
+[2026-01-03 11:37:11.605]: Info: Offset: 0x0
+[2026-01-03 11:37:11.605]: Info: Logical size: 2560x1440
+[2026-01-03 11:37:11.605]: Info: Name: DP-3
+[2026-01-03 11:37:11.605]: Info: Found monitor: Telecom Technology Centre Co. Ltd. DP1080P60  (DP-3)
+[2026-01-03 11:37:11.605]: Info: Offset: 0x1440
+[2026-01-03 11:37:11.605]: Info: Logical size: 1600x1200
+[2026-01-03 11:37:11.605]: Info: -------- Start of Wayland monitor list --------
+[2026-01-03 11:37:11.605]: Info: Monitor 0 is DP-1: Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)
+[2026-01-03 11:37:11.605]: Info: Monitor 1 is DP-2: Samsung Electric Company LC32G7xT HNBW300710 (DP-2)
+[2026-01-03 11:37:11.605]: Info: Monitor 2 is DP-3: Telecom Technology Centre Co. Ltd. DP1080P60  (DP-3)
+[2026-01-03 11:37:11.605]: Info: --------- End of Wayland monitor list ---------
+[2026-01-03 11:37:11.691]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2026-01-03 11:37:11.691]: Info: Trying encoder [nvenc]
+[2026-01-03 11:37:11.691]: Info: Screencasting with Wayland's protocol
+[2026-01-03 11:37:11.691]: Info: Found display [wayland-1]
+[2026-01-03 11:37:11.691]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2026-01-03 11:37:11.691]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2026-01-03 11:37:11.691]: Info: Found interface: zwp_linux_dmabuf_v1(62) version 5
+[2026-01-03 11:37:11.691]: Info: Found interface: wl_output(63) version 4
+[2026-01-03 11:37:11.691]: Info: Found interface: wl_output(64) version 4
+[2026-01-03 11:37:11.691]: Info: Found interface: wl_output(65) version 4
+[2026-01-03 11:37:11.691]: Info: Resolution: 3840x2160
+[2026-01-03 11:37:11.691]: Info: Name: DP-1
+[2026-01-03 11:37:11.691]: Info: Found monitor: Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)
+[2026-01-03 11:37:11.691]: Info: Offset: 2560x0
+[2026-01-03 11:37:11.691]: Info: Logical size: 2560x1440
+[2026-01-03 11:37:11.691]: Info: Selected monitor [Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)] for streaming
+[2026-01-03 11:37:11.691]: Info: Creating encoder [h264_nvenc]
+[2026-01-03 11:37:11.691]: Info: Color coding: SDR (Rec. 601)
+[2026-01-03 11:37:11.691]: Info: Color depth: 8-bit
+[2026-01-03 11:37:11.691]: Info: Color range: JPEG
+[2026-01-03 11:37:11.691]: Error: Couldn't load cuda: -1
+[2026-01-03 11:37:11.691]: Info: Creating encoder [h264_nvenc]
+[2026-01-03 11:37:11.691]: Info: Color coding: SDR (Rec. 601)
+[2026-01-03 11:37:11.691]: Info: Color depth: 8-bit
+[2026-01-03 11:37:11.691]: Info: Color range: JPEG
+[2026-01-03 11:37:11.691]: Error: Couldn't load cuda: -1
+[2026-01-03 11:37:11.691]: Info: Encoder [nvenc] failed
+[2026-01-03 11:37:11.691]: Info: Trying encoder [vaapi]
+[2026-01-03 11:37:11.691]: Info: Screencasting with Wayland's protocol
+[2026-01-03 11:37:11.691]: Info: Found display [wayland-1]
+[2026-01-03 11:37:11.691]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2026-01-03 11:37:11.691]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2026-01-03 11:37:11.691]: Info: Found interface: zwp_linux_dmabuf_v1(62) version 5
+[2026-01-03 11:37:11.691]: Info: Found interface: wl_output(63) version 4
+[2026-01-03 11:37:11.691]: Info: Found interface: wl_output(64) version 4
+[2026-01-03 11:37:11.691]: Info: Found interface: wl_output(65) version 4
+[2026-01-03 11:37:11.691]: Info: Resolution: 3840x2160
+[2026-01-03 11:37:11.691]: Info: Name: DP-1
+[2026-01-03 11:37:11.691]: Info: Found monitor: Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)
+[2026-01-03 11:37:11.691]: Info: Offset: 2560x0
+[2026-01-03 11:37:11.691]: Info: Logical size: 2560x1440
+[2026-01-03 11:37:11.691]: Info: Selected monitor [Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)] for streaming
+[2026-01-03 11:37:11.691]: Info: Creating encoder [h264_vaapi]
+[2026-01-03 11:37:11.691]: Info: Color coding: SDR (Rec. 601)
+[2026-01-03 11:37:11.691]: Info: Color depth: 8-bit
+[2026-01-03 11:37:11.691]: Info: Color range: JPEG
+[2026-01-03 11:37:11.715]: Info: vaapi vendor: Mesa Gallium driver 25.2.7 for AMD Radeon RX 7900 XT (radeonsi, navi31, LLVM 21.1.5, DRM 3.64, 6.17.12-300.fc43.x86_64)
+[2026-01-03 11:37:11.716]: Info: Streaming bitrate is 1000000
+[2026-01-03 11:37:11.716]: Error: [h264_vaapi @ 0x35535580] No usable encoding profile found.
+[2026-01-03 11:37:11.716]: Error: Could not open codec [h264_vaapi]: Function not implemented
+[2026-01-03 11:37:11.718]: Info: Creating encoder [h264_vaapi]
+[2026-01-03 11:37:11.718]: Info: Color coding: SDR (Rec. 601)
+[2026-01-03 11:37:11.718]: Info: Color depth: 8-bit
+[2026-01-03 11:37:11.718]: Info: Color range: JPEG
+[2026-01-03 11:37:11.730]: Info: vaapi vendor: Mesa Gallium driver 25.2.7 for AMD Radeon RX 7900 XT (radeonsi, navi31, LLVM 21.1.5, DRM 3.64, 6.17.12-300.fc43.x86_64)
+[2026-01-03 11:37:11.730]: Info: Streaming bitrate is 1000000
+[2026-01-03 11:37:11.730]: Error: [h264_vaapi @ 0x35535580] No usable encoding profile found.
+[2026-01-03 11:37:11.730]: Error: Could not open codec [h264_vaapi]: Function not implemented
+[2026-01-03 11:37:11.732]: Info: Encoder [vaapi] failed
+[2026-01-03 11:37:11.732]: Info: Trying encoder [software]
+[2026-01-03 11:37:11.732]: Info: Screencasting with Wayland's protocol
+[2026-01-03 11:37:11.732]: Info: Found display [wayland-1]
+[2026-01-03 11:37:11.732]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2026-01-03 11:37:11.732]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2026-01-03 11:37:11.732]: Info: Found interface: zwp_linux_dmabuf_v1(62) version 5
+[2026-01-03 11:37:11.732]: Info: Found interface: wl_output(63) version 4
+[2026-01-03 11:37:11.732]: Info: Found interface: wl_output(64) version 4
+[2026-01-03 11:37:11.732]: Info: Found interface: wl_output(65) version 4
+[2026-01-03 11:37:11.732]: Info: Resolution: 3840x2160
+[2026-01-03 11:37:11.732]: Info: Name: DP-1
+[2026-01-03 11:37:11.732]: Info: Found monitor: Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)
+[2026-01-03 11:37:11.732]: Info: Offset: 2560x0
+[2026-01-03 11:37:11.732]: Info: Logical size: 2560x1440
+[2026-01-03 11:37:11.732]: Info: Selected monitor [Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)] for streaming
+[2026-01-03 11:37:11.742]: Info: Creating encoder [libx264]
+[2026-01-03 11:37:11.742]: Info: Color coding: SDR (Rec. 601)
+[2026-01-03 11:37:11.742]: Info: Color depth: 8-bit
+[2026-01-03 11:37:11.742]: Info: Color range: JPEG
+[2026-01-03 11:37:11.743]: Info: Streaming bitrate is 1000000
+[2026-01-03 11:37:11.743]: Info: [libx264 @ 0x35535580] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[2026-01-03 11:37:11.744]: Info: [libx264 @ 0x35535580] profile High, level 4.2, 4:2:0, 8-bit
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] frame I:1     Avg QP:31.00  size:  1203
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] mb I  I16..4: 99.9%  0.0%  0.0%
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] 8x8 transform intra:0.0%
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] coded y,uvDC,uvAC intra: 0.0% 0.0% 0.0%
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] i16 v,h,dc,p: 97%  0%  3%  0%
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0%  0% 75% 12%  0%  0%  0%  0% 12%
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0%  0% 100%  0%  0%  0%  0%  0%  0%
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] i8c dc,h,v,p: 100%  0%  0%  0%
+[2026-01-03 11:37:11.788]: Info: [libx264 @ 0x35535580] kb/s:577.44
+[2026-01-03 11:37:11.788]: Info: Creating encoder [libx264]
+[2026-01-03 11:37:11.788]: Info: Color coding: SDR (Rec. 601)
+[2026-01-03 11:37:11.788]: Info: Color depth: 8-bit
+[2026-01-03 11:37:11.789]: Info: Color range: JPEG
+[2026-01-03 11:37:11.789]: Info: Streaming bitrate is 1000000
+[2026-01-03 11:37:11.789]: Info: [libx264 @ 0x35535580] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[2026-01-03 11:37:11.789]: Info: [libx264 @ 0x35535580] profile High 4:4:4 Predictive, level 4.2, 4:4:4, 8-bit
+[2026-01-03 11:37:11.837]: Info: [libx264 @ 0x35535580] frame I:1     Avg QP:31.00  size:  1307
+[2026-01-03 11:37:11.837]: Info: [libx264 @ 0x35535580] mb I  I16..4: 99.9%  0.0%  0.0%
+[2026-01-03 11:37:11.837]: Info: [libx264 @ 0x35535580] 8x8 transform intra:0.0%
+[2026-01-03 11:37:11.837]: Info: [libx264 @ 0x35535580] coded y,u,v intra: 0.0% 0.0% 0.0%
+[2026-01-03 11:37:11.837]: Info: [libx264 @ 0x35535580] i16 v,h,dc,p: 97%  0%  3%  0%
+[2026-01-03 11:37:11.837]: Info: [libx264 @ 0x35535580] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0%  0% 75% 12%  0%  0%  0%  0% 12%
+[2026-01-03 11:37:11.840]: Info: [libx264 @ 0x35535580] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu:  0%  0% 100%  0%  0%  0%  0%  0%  0%
+[2026-01-03 11:37:11.840]: Info: [libx264 @ 0x35535580] kb/s:627.36
+[2026-01-03 11:37:11.841]: Info: Screencasting with Wayland's protocol
+[2026-01-03 11:37:11.841]: Info: Found display [wayland-1]
+[2026-01-03 11:37:11.841]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2026-01-03 11:37:11.841]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2026-01-03 11:37:11.841]: Info: Found interface: zwp_linux_dmabuf_v1(62) version 5
+[2026-01-03 11:37:11.841]: Info: Found interface: wl_output(63) version 4
+[2026-01-03 11:37:11.842]: Info: Found interface: wl_output(64) version 4
+[2026-01-03 11:37:11.842]: Info: Found interface: wl_output(65) version 4
+[2026-01-03 11:37:11.842]: Info: Resolution: 3840x2160
+[2026-01-03 11:37:11.842]: Info: Name: DP-1
+[2026-01-03 11:37:11.842]: Info: Found monitor: Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)
+[2026-01-03 11:37:11.842]: Info: Offset: 2560x0
+[2026-01-03 11:37:11.842]: Info: Logical size: 2560x1440
+[2026-01-03 11:37:11.842]: Info: Selected monitor [Samsung Electric Company Odyssey G7 HNBW300565 (DP-1)] for streaming
+[2026-01-03 11:37:11.851]: Info: 
+[2026-01-03 11:37:11.851]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2026-01-03 11:37:11.851]: Info: 
+[2026-01-03 11:37:11.851]: Info: Found H.264 encoder: libx264 [software]
+[2026-01-03 11:37:11.851]: Info: Starting system tray
+[2026-01-03 11:37:11.852]: Fatal: Couldn't bind RTSP server to port [48010], Address already in use
+[2026-01-03 11:37:11.853]: Info: Adding avahi service 2001-1c08-0011-4a00-0000-0000-0000-1096
+[2026-01-03 11:37:11.877]: Info: System tray created
+[2026-01-03 11:37:11.877]: Info: Starting main loop
+[2026-01-03 11:37:12.819]: Info: Avahi service 2001-1c08-0011-4a00-0000-0000-0000-1096 successfully established.

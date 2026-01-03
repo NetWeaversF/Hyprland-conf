@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Fetch status from the server
+msg=$(nc -v -z -w 3 192.168.178.102 15002 2> /dev/null && printf '{"text":"  ●","class":"up"}' || echo '{"text":"  ●","class":"down"}')
+
+echo $msg
