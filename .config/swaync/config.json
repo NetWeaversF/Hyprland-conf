@@ -1,47 +1,36 @@
 {
   "$schema": "/etc/xdg/swaync/configSchema.json",
+  "ignore-gtk-theme": true,
   "positionX": "right",
   "positionY": "top",
   "layer": "overlay",
-  "control-center-layer": "top",
+  "control-center-layer": "overlay",
   "layer-shell": true,
   "layer-shell-cover-screen": true,
-  "cssPriority": "application",
-  "control-center-margin-top": 10,
-  "control-center-margin-bottom": 10,
-  "control-center-margin-right": 10,
-  "control-center-margin-left": 10,
+  "cssPriority": "user",
+  "control-center-margin-top": 8,
+  "control-center-margin-bottom": 8,
+  "control-center-margin-right": 8,
+  "control-center-margin-left": 8,
   "notification-2fa-action": true,
   "notification-inline-replies": false,
-  "notification-icon-size": 64,
   "notification-body-image-height": 100,
   "notification-body-image-width": 200,
-  "timeout": 10,
-  "timeout-low": 5,
+  "timeout": 5,
+  "timeout-low": 3,
   "timeout-critical": 0,
   "fit-to-screen": false,
   "relative-timestamps": true,
-  "control-center-width": 500,
-  "control-center-height": 600,
+  "control-center-width": 450,
+  "control-center-height": 800,
   "notification-window-width": 500,
   "keyboard-shortcuts": true,
+  "notification-grouping": true,
   "image-visibility": "when-available",
   "transition-time": 200,
   "hide-on-clear": false,
   "hide-on-action": true,
   "text-empty": "No Notifications",
-  "script-fail-notify": true,
-  "scripts": {
-    "example-script": {
-      "exec": "echo 'Do something...'",
-      "urgency": "Normal"
-    },
-    "example-action-script": {
-      "exec": "echo 'Do something actionable!'",
-      "urgency": "Normal",
-      "run-on": "action"
-    }
-  },
   "notification-visibility": {
     "example-name": {
       "state": "muted",
@@ -49,12 +38,7 @@
       "app-name": "Spotify"
     }
   },
-  "widgets": [
-    "inhibitors",
-    "title",
-    "dnd",
-    "notifications"
-  ],
+  "widgets": ["title", "notifications", "buttons-grid", "mpris", "volume", "backlight"],
   "widget-config": {
     "inhibitors": {
       "text": "Inhibitors",
@@ -66,26 +50,45 @@
       "clear-all-button": true,
       "button-text": "  Clear All  "
     },
-    "dnd": {
-      "text": "Do Not Disturb"
-    },
-    "label": {
-      "max-lines": 5,
-      "text": "Label Text"
+    "notifications": {},
+    "mpris": {
+      "show-album-art": "when-available"
     },
     "mpris": {
       "image-size": 96,
       "image-radius": 12,
-      "blacklist": []
+      "show-album-art": "when-available"
+    },
+    "volume": {
+      "label": "󰕾"
+    },
+    "backlight": {
+      "label": "󰃞",
+      "device": "amdgpu_bl1",
+      "subsystem": "backlight"
     },
     "buttons-grid": {
+      "buttons-per-row": 3,
       "actions": [
         {
-          "label": "直",
+          "label": "󰍷 Do Not Disturb",
           "type": "toggle",
           "active": true,
-          "command": "sh -c '[[ $SWAYNC_TOGGLE_STATE == true ]] && nmcli radio wifi on || nmcli radio wifi off'",
-          "update-command": "sh -c '[[ $(nmcli radio wifi) == \"enabled\" ]] && echo true || echo false'"
+          "command": "sh -c '[[ $SWAYNC_TOGGLE_STATE == true ]] && swaync-client --dnd-on || swaync-client --dnd-off'",
+          "update-command": "sh -c '[[ $(swaync-client --get-dnd) == true ]] && echo true || echo false'"
+        },
+        {
+          "label": "󰈈 Night Light",
+          "type": "toggle",
+          "active": true,
+          "command": "sh -c '[[ $SWAYNC_TOGGLE_STATE == true ]] && hyprsunset || pkill hyprsunset'",
+          "update-command": "sh -c 'pgrep -x hyprsunset > /dev/null && echo true || echo false'"
+        },
+        {
+          "label": "󰄀 Screenshot",
+          "type": "normal",
+          "active": false,
+          "command": "sh -c 'swaync-client --close-panel && sleep 1 && hyprshot -m output -m DP-1'"
         }
       ]
     }

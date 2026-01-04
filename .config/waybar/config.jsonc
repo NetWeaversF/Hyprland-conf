@@ -45,7 +45,7 @@
     "spacing": 5
   },
   "clock": {
-    "timezone": "Europa/Amsterdam",
+    "timezone": "Europe/Amsterdam",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
     "format": "{:%a %d %b %Y  |  %H:%M}"
   },

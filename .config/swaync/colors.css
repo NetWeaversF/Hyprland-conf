@@ -1,0 +1,33 @@
+:root {
+  --cc-bg: rgba(26, 17, 16, 1.0);
+  --noti-border-color: rgb(160, 140, 138);
+  --noti-bg: rgb(26, 17, 16);
+  --noti-bg-darker: rgb(255, 179, 172);
+  --noti-bg-hover: rgb(66, 55, 53);
+  --noti-bg-focus: rgb(68, 68, 68);
+  --noti-bg-critical: rgb(255, 180, 171);
+  --noti-close-bg: rgb(66, 55, 53);
+  --noti-close-bg-hover: rgb(94, 94, 94);
+  --text-color: rgb(241, 222, 220);
+  --text-color-disabled: rgb(150, 150, 150);
+  --bg-selected: rgb(255, 179, 172);
+  --bg-selected-secondary: rgb(231, 189, 184);
+  --text-selected: rgb(57, 46, 45);
+  --border: rgb(160, 140, 138);
+}
+
+/* Fallback for older CSS themes */
+@define-color cc-bg rgba(26, 17, 16, 0.8);
+@define-color noti-border-color rgb(160, 140, 138);
+@define-color noti-bg rgb(26, 17, 16);
+@define-color noti-bg-darker rgb(255, 179, 172);
+@define-color noti-bg-hover rgb(66, 55, 53);
+@define-color noti-bg-focus rgb(68, 68, 68);
+@define-color noti-close-bg rgb(66, 55, 53);
+@define-color noti-close-bg-hover rgb(255, 255, 255);
+@define-color text-color rgb(241, 222, 220);
+@define-color text-color-disabled rgb(150, 150, 150);
+@define-color bg-selected rgb(255, 179, 172);
+@define-color bg-selected-secondary rgb(255, 179, 172);
+@define-color text-selected rgb(57, 46, 45);
+@define-color border rgb(160, 140, 138);
