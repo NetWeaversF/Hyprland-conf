@@ -1,0 +1,28 @@
+{
+    "checksum": "de155b8a3711905708944ed5d93752c1",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2022_6June_3rd_-HT_X_Julien_julien-5_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d0311",
+        "foreground": "#c5c1c3",
+        "cursor": "#c5c1c3"
+    },
+    "colors": {
+        "color0": "#1d0311",
+        "color1": "#bdaaff",
+        "color2": "#bbabff",
+        "color3": "#ed96ff",
+        "color4": "#78c1ce",
+        "color5": "#94b5ff",
+        "color6": "#a3c7e9",
+        "color7": "#c0b3b9",
+        "color8": "#ff93ce",
+        "color9": "#bcabff",
+        "color10": "#bbabff",
+        "color11": "#eb97ff",
+        "color12": "#7cddef",
+        "color13": "#b0c6f5",
+        "color14": "#b1d6f6",
+        "color15": "#c5c1c3"
+    }
+}

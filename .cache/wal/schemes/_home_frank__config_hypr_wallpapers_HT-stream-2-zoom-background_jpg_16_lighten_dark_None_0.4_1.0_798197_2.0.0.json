@@ -1,0 +1,28 @@
+{
+    "checksum": "ea4f1699d32ea93de064d831d1fd2335",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT-stream-2-zoom-background.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#13052b",
+        "foreground": "#c4c3c7",
+        "cursor": "#c4c3c7"
+    },
+    "colors": {
+        "color0": "#13052b",
+        "color1": "#6829ff",
+        "color2": "#5933ff",
+        "color3": "#463bff",
+        "color4": "#a63acf",
+        "color5": "#ac40fb",
+        "color6": "#41a1ea",
+        "color7": "#95919c",
+        "color8": "#7043c9",
+        "color9": "#692ff7",
+        "color10": "#6648ea",
+        "color11": "#5d55eb",
+        "color12": "#c159eb",
+        "color13": "#bf7aef",
+        "color14": "#70b6ee",
+        "color15": "#c4c3c7"
+    }
+}

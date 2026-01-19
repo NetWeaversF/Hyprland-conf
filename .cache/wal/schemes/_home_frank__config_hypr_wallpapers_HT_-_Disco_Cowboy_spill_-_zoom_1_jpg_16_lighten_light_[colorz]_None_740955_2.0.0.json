@@ -1,0 +1,28 @@
+{
+    "checksum": "d6ed7a2834807787b604dd2795ff2f39",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_Disco_Cowboy_spill_-_zoom_1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f7f4f5",
+        "foreground": "#3d3d3d",
+        "cursor": "#3d3d3d"
+    },
+    "colors": {
+        "color0": "#f7f4f5",
+        "color1": "#59699A",
+        "color2": "#A26699",
+        "color3": "#BE64A6",
+        "color4": "#6894B2",
+        "color5": "#779FC4",
+        "color6": "#C4AFBE",
+        "color7": "#7b7a7a",
+        "color8": "#b9b7b7",
+        "color9": "#828eb3",
+        "color10": "#b98cb2",
+        "color11": "#ce8abc",
+        "color12": "#8daec5",
+        "color13": "#99b7d2",
+        "color14": "#d2c3ce",
+        "color15": "#3d3d3d"
+    }
+}

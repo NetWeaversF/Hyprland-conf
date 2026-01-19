@@ -1,0 +1,32 @@
+[
+  {
+    "class": "kitty",
+    "workspace": "7",
+    "cwd": null,
+    "in_nvim": false
+  },
+  {
+    "class": "org.mozilla.firefox",
+    "workspace": "6",
+    "cwd": null,
+    "in_nvim": false
+  },
+  {
+    "class": "org.kde.dolphin",
+    "workspace": "1",
+    "cwd": null,
+    "in_nvim": false
+  },
+  {
+    "class": "code",
+    "workspace": "1",
+    "cwd": null,
+    "in_nvim": false
+  },
+  {
+    "class": "com.mitchellh.ghostty",
+    "workspace": "6",
+    "cwd": null,
+    "in_nvim": false
+  }
+]

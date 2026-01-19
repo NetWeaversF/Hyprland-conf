@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+    <object class="GtkMenu" id="menu">
+        <child>
+            <object class="GtkMenuItem" id="home">
+                <property name="label">Home</property>
+            </object>
+        </child>
+        <child>
+            <object class="GtkMenuItem" id="downloads">
+                <property name="label">Downloads</property>
+            </object>
+        </child>
+        <child>
+            <object class="GtkMenuItem" id="documents">
+                <property name="label">Documents</property>
+            </object>
+        </child>
+        <child>
+            <object class="GtkMenuItem" id="pictures">
+                <property name="label">Pictures</property>
+            </object>
+        </child>
+        <child>
+            <object class="GtkSeparatorMenuItem" id="delimiter1" />
+        </child>
+        <child>
+            <object class="GtkMenuItem" id="firefox">
+                <property name="label">Firefox</property>
+            </object>
+        </child>
+        <child>
+            <object class="GtkMenuItem" id="mail">
+                <property name="label">Mail</property>
+            </object>
+        </child>
+        <child>
+            <object class="GtkSeparatorMenuItem" id="delimiter2" />
+        </child>
+        <child>
+            <object class="GtkMenuItem" id="settings">
+                <property name="label">Settings</property>
+            </object>
+        </child>
+    </object>
+</interface>

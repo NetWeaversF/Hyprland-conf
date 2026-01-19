@@ -1,0 +1,28 @@
+{
+    "checksum": "e6fbc03ebed15b497c90e0adb9cef0cf",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_Off_The_Grid_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171e0c",
+        "foreground": "#c4c2c6",
+        "cursor": "#c4c2c6"
+    },
+    "colors": {
+        "color0": "#171e0c",
+        "color1": "#585c1c",
+        "color2": "#1f6124",
+        "color3": "#453935",
+        "color4": "#1b9067",
+        "color5": "#3f9ba8",
+        "color6": "#655b4f",
+        "color7": "#94909a",
+        "color8": "#6dad1e",
+        "color9": "#909740",
+        "color10": "#429c4b",
+        "color11": "#985941",
+        "color12": "#4cb188",
+        "color13": "#6cb4c0",
+        "color14": "#b48b50",
+        "color15": "#c4c2c6"
+    }
+}

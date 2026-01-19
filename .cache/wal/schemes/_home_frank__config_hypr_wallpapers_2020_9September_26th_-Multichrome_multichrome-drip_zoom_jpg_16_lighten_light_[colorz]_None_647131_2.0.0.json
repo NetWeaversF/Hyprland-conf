@@ -1,0 +1,28 @@
+{
+    "checksum": "c670380642798cd1271d38fd7b1cc852",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2020_9September_26th_-Multichrome_multichrome-drip_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f2f2f2",
+        "foreground": "#3c3c3c",
+        "cursor": "#3c3c3c"
+    },
+    "colors": {
+        "color0": "#f2f2f2",
+        "color1": "#5F5E5F",
+        "color2": "#9A3A58",
+        "color3": "#4D9746",
+        "color4": "#9FA649",
+        "color5": "#3E4EA0",
+        "color6": "#B04BA4",
+        "color7": "#797979",
+        "color8": "#b5b5b5",
+        "color9": "#878687",
+        "color10": "#b36b81",
+        "color11": "#79b174",
+        "color12": "#b7bc76",
+        "color13": "#6e7ab7",
+        "color14": "#c378ba",
+        "color15": "#3c3c3c"
+    }
+}

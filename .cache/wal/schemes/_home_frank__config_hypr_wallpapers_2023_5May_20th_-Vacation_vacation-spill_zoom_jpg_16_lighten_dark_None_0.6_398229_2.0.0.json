@@ -1,0 +1,28 @@
+{
+    "checksum": "45dd705ac3dab7b9d00bf739a1550816",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_5May_20th_-Vacation_vacation-spill_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#521600",
+        "foreground": "#cdc7c5",
+        "cursor": "#cdc7c5"
+    },
+    "colors": {
+        "color0": "#521600",
+        "color1": "#0600ff",
+        "color2": "#fe12df",
+        "color3": "#00affd",
+        "color4": "#0de6fe",
+        "color5": "#e59c70",
+        "color6": "#f89c7b",
+        "color7": "#a39c99",
+        "color8": "#c35122",
+        "color9": "#433efe",
+        "color10": "#fe4ce8",
+        "color11": "#3ec2fe",
+        "color12": "#48eafe",
+        "color13": "#ffaa80",
+        "color14": "#feaf96",
+        "color15": "#cdc7c5"
+    }
+}

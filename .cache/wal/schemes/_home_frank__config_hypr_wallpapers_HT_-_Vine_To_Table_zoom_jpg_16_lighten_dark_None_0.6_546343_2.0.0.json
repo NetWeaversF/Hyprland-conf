@@ -1,0 +1,28 @@
+{
+    "checksum": "13bc8bfd64e58cf2ae2bafeffca3c6c8",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_Vine_To_Table_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b0007",
+        "foreground": "#c4c1c2",
+        "cursor": "#c4c1c2"
+    },
+    "colors": {
+        "color0": "#1b0007",
+        "color1": "#980057",
+        "color2": "#930067",
+        "color3": "#a90e6d",
+        "color4": "#be0065",
+        "color5": "#fc0512",
+        "color6": "#d30a69",
+        "color7": "#968c90",
+        "color8": "#a51c45",
+        "color9": "#f0008b",
+        "color10": "#eb00a5",
+        "color11": "#fe099d",
+        "color12": "#fe0d90",
+        "color13": "#fe404a",
+        "color14": "#fe258a",
+        "color15": "#c4c1c2"
+    }
+}

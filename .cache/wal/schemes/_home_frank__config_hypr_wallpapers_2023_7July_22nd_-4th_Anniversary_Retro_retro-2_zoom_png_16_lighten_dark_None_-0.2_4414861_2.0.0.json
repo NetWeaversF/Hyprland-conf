@@ -1,0 +1,28 @@
+{
+    "checksum": "1566e7ecb60f7b7096759ac58704ea48",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_7July_22nd_-4th_Anniversary_Retro_retro-2_zoom.png",
+    "alpha": "100",
+    "special": {
+        "background": "#424434",
+        "foreground": "#cdcdcf",
+        "cursor": "#cdcdcf"
+    },
+    "colors": {
+        "color0": "#424434",
+        "color1": "#5e6d88",
+        "color2": "#94428b",
+        "color3": "#e75e93",
+        "color4": "#af6299",
+        "color5": "#de6ea4",
+        "color6": "#5e8fa0",
+        "color7": "#a2a2ab",
+        "color8": "#888c72",
+        "color9": "#818fab",
+        "color10": "#a579a0",
+        "color11": "#c7abb6",
+        "color12": "#b794ad",
+        "color13": "#c8aebb",
+        "color14": "#8ba7b1",
+        "color15": "#cdcdcf"
+    }
+}

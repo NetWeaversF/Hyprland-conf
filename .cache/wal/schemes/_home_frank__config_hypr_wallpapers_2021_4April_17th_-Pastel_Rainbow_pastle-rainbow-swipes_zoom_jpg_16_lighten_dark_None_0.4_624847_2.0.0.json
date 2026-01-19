@@ -1,0 +1,28 @@
+{
+    "checksum": "ce6be111868ada7567bf7ba673945cd6",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2021_4April_17th_-Pastel_Rainbow_pastle-rainbow-swipes_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0101",
+        "foreground": "#c1c0c0",
+        "cursor": "#c1c0c0"
+    },
+    "colors": {
+        "color0": "#0b0101",
+        "color1": "#3e32cc",
+        "color2": "#ce3bc5",
+        "color3": "#ef4a9e",
+        "color4": "#43b1d8",
+        "color5": "#7777c9",
+        "color6": "#f5867d",
+        "color7": "#948989",
+        "color8": "#8b2e2e",
+        "color9": "#5d51eb",
+        "color10": "#eb59e3",
+        "color11": "#ef79b5",
+        "color12": "#66c8ee",
+        "color13": "#7d7df0",
+        "color14": "#f4a59f",
+        "color15": "#c1c0c0"
+    }
+}

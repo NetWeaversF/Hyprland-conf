@@ -1,0 +1,28 @@
+{
+    "checksum": "9d9ee71697ea9ada6c20eb9248fd5393",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_simplychaotic.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2a0056",
+        "foreground": "#cac5ce",
+        "cursor": "#cac5ce"
+    },
+    "colors": {
+        "color0": "#2a0056",
+        "color1": "#3400fa",
+        "color2": "#015bff",
+        "color3": "#1619fe",
+        "color4": "#2b47ff",
+        "color5": "#9226ff",
+        "color6": "#3b95ff",
+        "color7": "#9f9aa3",
+        "color8": "#7900e9",
+        "color9": "#643aff",
+        "color10": "#4082ff",
+        "color11": "#4d52ff",
+        "color12": "#5e74ff",
+        "color13": "#ac5bff",
+        "color14": "#69aeff",
+        "color15": "#cac5ce"
+    }
+}

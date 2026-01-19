@@ -1,0 +1,28 @@
+{
+    "checksum": "68f7bada6e3c0524c6da1eb99a9711f3",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_1January_18th_-Holo_Barista_barista-spill-2_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2f0c00",
+        "foreground": "#c7c4c2",
+        "cursor": "#c7c4c2"
+    },
+    "colors": {
+        "color0": "#2f0c00",
+        "color1": "#fedb18",
+        "color2": "#ff8343",
+        "color3": "#d104ff",
+        "color4": "#ff5a46",
+        "color5": "#ff8d71",
+        "color6": "#fed091",
+        "color7": "#9b9391",
+        "color8": "#cf3100",
+        "color9": "#fee550",
+        "color10": "#ffa171",
+        "color11": "#db41ff",
+        "color12": "#ff7f73",
+        "color13": "#ffa794",
+        "color14": "#ffd9ab",
+        "color15": "#c7c4c2"
+    }
+}

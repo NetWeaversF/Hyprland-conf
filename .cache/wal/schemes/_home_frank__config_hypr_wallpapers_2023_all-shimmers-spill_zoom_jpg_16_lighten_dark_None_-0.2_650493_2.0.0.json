@@ -1,0 +1,28 @@
+{
+    "checksum": "bac10828c76909ea5ef4a8aac8e2dfd8",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_all-shimmers-spill_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1313",
+        "foreground": "#c1c5c5",
+        "cursor": "#c1c5c5"
+    },
+    "colors": {
+        "color0": "#0c1313",
+        "color1": "#8d5a54",
+        "color2": "#5e8b61",
+        "color3": "#a89467",
+        "color4": "#343486",
+        "color5": "#5d5da3",
+        "color6": "#9e6d9a",
+        "color7": "#8d9898",
+        "color8": "#6c5959",
+        "color9": "#a8827e",
+        "color10": "#82ab84",
+        "color11": "#b6ab93",
+        "color12": "#6c6c9d",
+        "color13": "#8c8cb1",
+        "color14": "#b591b2",
+        "color15": "#c1c5c5"
+    }
+}

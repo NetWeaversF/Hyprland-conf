@@ -1,0 +1,28 @@
+{
+    "checksum": "bfa5f91cf8cb0ada32b9a4bffdf1a9f9",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2024_3March_20th_CookiesCream_cc-2_zoom.png",
+    "alpha": "100",
+    "special": {
+        "background": "#f3f3f3",
+        "foreground": "#3c3c3c",
+        "cursor": "#3c3c3c"
+    },
+    "colors": {
+        "color0": "#f3f3f3",
+        "color1": "#96867C",
+        "color2": "#A39D9D",
+        "color3": "#C8B5B7",
+        "color4": "#EBDBB2",
+        "color5": "#A0AEF1",
+        "color6": "#A6B5FC",
+        "color7": "#797979",
+        "color8": "#b6b6b6",
+        "color9": "#b0a49c",
+        "color10": "#bab5b5",
+        "color11": "#d5c7c9",
+        "color12": "#f0e4c5",
+        "color13": "#b7c2f4",
+        "color14": "#bcc7fc",
+        "color15": "#3c3c3c"
+    }
+}

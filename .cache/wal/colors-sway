@@ -1,0 +1,21 @@
+set $wallpaper /home/frank/.config/hypr/wallpapers/HT-stream-2-zoom-background.jpg
+
+set $background #171717
+set $foreground #3c3c3d
+
+set $color0 #171717
+set $color1 #523792
+set $color2 #64589A
+set $color3 #524CB8
+set $color4 #906B9E
+set $color5 #A667D3
+set $color6 #6C9AC0
+set $color7 #79797a
+set $color8 #b6b6b7
+set $color9 #7d69ad
+set $color10 #8a81b3
+set $color11 #7d78c9
+set $color12 #ab90b6
+set $color13 #bc8dde
+set $color14 #90b3cf
+set $color15 #3c3c3d

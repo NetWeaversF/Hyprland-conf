@@ -1,0 +1,28 @@
+{
+    "checksum": "68538631d1a0f7eec676bf022a0baa1e",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_Venetian_Views_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#001a26",
+        "foreground": "#c2c4c6",
+        "cursor": "#c2c4c6"
+    },
+    "colors": {
+        "color0": "#001a26",
+        "color1": "#00b6c8",
+        "color2": "#00c369",
+        "color3": "#fecb15",
+        "color4": "#00affe",
+        "color5": "#72a4ff",
+        "color6": "#00b7bd",
+        "color7": "#9fa7aa",
+        "color8": "#00b0f7",
+        "color9": "#00c7d9",
+        "color10": "#12fe91",
+        "color11": "#ffd74d",
+        "color12": "#07afff",
+        "color13": "#70a5ff",
+        "color14": "#04f9ff",
+        "color15": "#c2c4c6"
+    }
+}

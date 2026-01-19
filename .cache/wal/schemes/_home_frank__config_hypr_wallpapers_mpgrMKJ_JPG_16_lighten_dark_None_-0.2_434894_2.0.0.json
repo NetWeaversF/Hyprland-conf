@@ -1,0 +1,28 @@
+{
+    "checksum": "9bb7ac74262f7a62a1c759d3df8d92c2",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/mpgrMKJ.JPG",
+    "alpha": "100",
+    "special": {
+        "background": "#13151d",
+        "foreground": "#c3c4c7",
+        "cursor": "#c3c4c7"
+    },
+    "colors": {
+        "color0": "#13151d",
+        "color1": "#2e6488",
+        "color2": "#777879",
+        "color3": "#4265b5",
+        "color4": "#848c84",
+        "color5": "#7b8689",
+        "color6": "#4e9cad",
+        "color7": "#91939c",
+        "color8": "#726f5e",
+        "color9": "#6a889c",
+        "color10": "#8594ad",
+        "color11": "#8894af",
+        "color12": "#b593b6",
+        "color13": "#8eaab3",
+        "color14": "#8aa9b0",
+        "color15": "#c3c4c7"
+    }
+}

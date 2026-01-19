@@ -1,0 +1,28 @@
+{
+    "checksum": "10f5edc374a394fd48764399d0517852",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_2Feburary_25th_-One-Coat_Chrome_chrome-spill_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#371a72",
+        "foreground": "#d0d0d1",
+        "cursor": "#d0d0d1"
+    },
+    "colors": {
+        "color0": "#371a72",
+        "color1": "#2ee3ff",
+        "color2": "#de6388",
+        "color3": "#f2768f",
+        "color4": "#fdf876",
+        "color5": "#758bff",
+        "color6": "#f78ecf",
+        "color7": "#a7a7af",
+        "color8": "#3232db",
+        "color9": "#60eafe",
+        "color10": "#fe70a4",
+        "color11": "#fe8ea4",
+        "color12": "#fefc95",
+        "color13": "#97a8ff",
+        "color14": "#ffa3dc",
+        "color15": "#d0d0d1"
+    }
+}

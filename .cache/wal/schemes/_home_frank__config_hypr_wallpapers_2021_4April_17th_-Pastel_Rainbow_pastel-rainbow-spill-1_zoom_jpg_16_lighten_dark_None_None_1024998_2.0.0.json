@@ -1,0 +1,28 @@
+{
+    "checksum": "8b847d58cbac6d4ec6b8166c3e5888e6",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2021_4April_17th_-Pastel_Rainbow_pastel-rainbow-spill-1_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#382d37",
+        "foreground": "#cdcacd",
+        "cursor": "#cdcacd"
+    },
+    "colors": {
+        "color0": "#382d37",
+        "color1": "#605CB2",
+        "color2": "#9A6B9F",
+        "color3": "#B671B0",
+        "color4": "#7099B3",
+        "color5": "#A09AA7",
+        "color6": "#DAA19F",
+        "color7": "#a79da7",
+        "color8": "#856d85",
+        "color9": "#8380c8",
+        "color10": "#c07ec8",
+        "color11": "#ce8dc8",
+        "color12": "#8bb3cd",
+        "color13": "#b29bd4",
+        "color14": "#e1b9b8",
+        "color15": "#cdcacd"
+    }
+}

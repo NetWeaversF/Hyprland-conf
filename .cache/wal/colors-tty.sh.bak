@@ -1,0 +1,19 @@
+#!/bin/sh
+[ "${TERM:-none}" = "linux" ] && \
+    printf '%b' '\e]P00b1b1b
+                 \e]P1884320
+                 \e]P2867315
+                 \e]P3a57a1e
+                 \e]P4ca2664
+                 \e]P5c8aa2d
+                 \e]P6a9934a
+                 \e]P7998f8f
+                 \e]P81eabab
+                 \e]P9a16645
+                 \e]PAa89349
+                 \e]PBb79959
+                 \e]PCc27091
+                 \e]PDc3b372
+                 \e]PEc2af71
+                 \e]PFc6c2c2
+                 \ec'

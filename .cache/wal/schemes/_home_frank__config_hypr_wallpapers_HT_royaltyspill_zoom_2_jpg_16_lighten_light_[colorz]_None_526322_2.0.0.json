@@ -1,0 +1,28 @@
+{
+    "checksum": "4f34e3fff91a271301d584ed19965e4d",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_royaltyspill_zoom_2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f4f4f6",
+        "foreground": "#3d3d3d",
+        "cursor": "#3d3d3d"
+    },
+    "colors": {
+        "color0": "#f4f4f6",
+        "color1": "#098FB0",
+        "color2": "#15A2B4",
+        "color3": "#2AB7C8",
+        "color4": "#E99FB2",
+        "color5": "#F496B2",
+        "color6": "#A1B2E7",
+        "color7": "#7a7a7b",
+        "color8": "#b7b7b8",
+        "color9": "#46abc3",
+        "color10": "#4fb9c6",
+        "color11": "#5fc9d5",
+        "color12": "#eeb7c5",
+        "color13": "#f6b0c5",
+        "color14": "#b8c5ed",
+        "color15": "#3d3d3d"
+    }
+}

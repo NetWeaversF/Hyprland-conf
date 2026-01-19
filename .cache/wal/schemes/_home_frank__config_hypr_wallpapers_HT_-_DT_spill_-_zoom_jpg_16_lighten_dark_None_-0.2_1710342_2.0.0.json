@@ -1,0 +1,28 @@
+{
+    "checksum": "cd698a700a5bceab2db4d7610581ab6a",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_DT_spill_-_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181e25",
+        "foreground": "#c3c7ca",
+        "cursor": "#c3c7ca"
+    },
+    "colors": {
+        "color0": "#181e25",
+        "color1": "#338c8e",
+        "color2": "#419d9d",
+        "color3": "#778c8d",
+        "color4": "#4db0b1",
+        "color5": "#6abbbc",
+        "color6": "#ababab",
+        "color7": "#949a9f",
+        "color8": "#766b61",
+        "color9": "#6f9e9f",
+        "color10": "#7ca8a8",
+        "color11": "#8eb2b3",
+        "color12": "#8bb1b1",
+        "color13": "#9dbdbd",
+        "color14": "#b2c5cc",
+        "color15": "#c3c7ca"
+    }
+}

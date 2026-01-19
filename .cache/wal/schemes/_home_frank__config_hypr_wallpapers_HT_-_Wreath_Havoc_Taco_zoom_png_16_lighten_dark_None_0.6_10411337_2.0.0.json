@@ -1,0 +1,28 @@
+{
+    "checksum": "07091676b161d1041469c6fee51198f6",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_Wreath_Havoc_Taco_zoom.png",
+    "alpha": "100",
+    "special": {
+        "background": "#001432",
+        "foreground": "#c3c5c8",
+        "cursor": "#c3c5c8"
+    },
+    "colors": {
+        "color0": "#001432",
+        "color1": "#00b975",
+        "color2": "#006bbb",
+        "color3": "#2904e2",
+        "color4": "#c311fe",
+        "color5": "#00c4c0",
+        "color6": "#1bfff1",
+        "color7": "#92959c",
+        "color8": "#1f5bb3",
+        "color9": "#09fea4",
+        "color10": "#0b96fe",
+        "color11": "#512bfe",
+        "color12": "#d24aff",
+        "color13": "#12fefa",
+        "color14": "#52fef4",
+        "color15": "#c3c5c8"
+    }
+}

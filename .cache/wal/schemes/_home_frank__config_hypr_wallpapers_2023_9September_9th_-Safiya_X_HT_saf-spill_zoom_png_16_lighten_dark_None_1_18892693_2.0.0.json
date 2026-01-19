@@ -1,0 +1,28 @@
+{
+    "checksum": "073ed3db3565637915cd2325d82fb606",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_9September_9th_-Safiya_X_HT_saf-spill_zoom.png",
+    "alpha": "100",
+    "special": {
+        "background": "#280009",
+        "foreground": "#c4c3c4",
+        "cursor": "#c4c3c4"
+    },
+    "colors": {
+        "color0": "#280009",
+        "color1": "#e2ff00",
+        "color2": "#0023f4",
+        "color3": "#fe0e9b",
+        "color4": "#ff3d8c",
+        "color5": "#ff3bab",
+        "color6": "#f232ff",
+        "color7": "#9a8f8f",
+        "color8": "#ca0046",
+        "color9": "#e8ff3e",
+        "color10": "#3453ff",
+        "color11": "#ff48b3",
+        "color12": "#ff6ba7",
+        "color13": "#ff6abf",
+        "color14": "#f564ff",
+        "color15": "#c4c3c4"
+    }
+}

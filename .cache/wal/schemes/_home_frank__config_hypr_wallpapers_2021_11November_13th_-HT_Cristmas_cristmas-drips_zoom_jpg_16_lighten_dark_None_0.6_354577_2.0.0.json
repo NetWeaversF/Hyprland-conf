@@ -1,0 +1,28 @@
+{
+    "checksum": "441a2fd08560ff129c337c311434bd84",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2021_11November_13th_-HT_Cristmas_cristmas-drips_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070019",
+        "foreground": "#c2c1c3",
+        "cursor": "#c2c1c3"
+    },
+    "colors": {
+        "color0": "#070019",
+        "color1": "#e51700",
+        "color2": "#b86f00",
+        "color3": "#0de507",
+        "color4": "#f1be0f",
+        "color5": "#febd13",
+        "color6": "#1605f1",
+        "color7": "#908c96",
+        "color8": "#471da3",
+        "color9": "#fe402a",
+        "color10": "#fe9d09",
+        "color11": "#33fe31",
+        "color12": "#fed340",
+        "color13": "#fecc4c",
+        "color14": "#4738fe",
+        "color15": "#c2c1c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "0b717f123dbae1cf21da5258fb14ab9e",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2022_4April_2nd_-Lite_Mode_lite-mode-spill_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3b1956",
+        "foreground": "#cdcbcf",
+        "cursor": "#cdcbcf"
+    },
+    "colors": {
+        "color0": "#3b1956",
+        "color1": "#ff93f9",
+        "color2": "#ff9bc7",
+        "color3": "#f399ff",
+        "color4": "#2dced3",
+        "color5": "#19d6e5",
+        "color6": "#77cba9",
+        "color7": "#bdb8c2",
+        "color8": "#dba5ff",
+        "color9": "#ff94f9",
+        "color10": "#ff9bc7",
+        "color11": "#f499ff",
+        "color12": "#51e7eb",
+        "color13": "#51e1eb",
+        "color14": "#7af0d2",
+        "color15": "#cdcbcf"
+    }
+}

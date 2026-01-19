@@ -1,0 +1,28 @@
+{
+    "checksum": "69feccbe6e8f3c1423a84d252d29695e",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2021_2Feburary_27th_Unicorn_Dream_all-unicorn-skins_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f2f2f2",
+        "foreground": "#3c3c3c",
+        "cursor": "#3c3c3c"
+    },
+    "colors": {
+        "color0": "#f2f2f2",
+        "color1": "#2B5B58",
+        "color2": "#A94630",
+        "color3": "#2B9D3A",
+        "color4": "#BCA42B",
+        "color5": "#221B9B",
+        "color6": "#4337C0",
+        "color7": "#797979",
+        "color8": "#b5b5b5",
+        "color9": "#608481",
+        "color10": "#be7463",
+        "color11": "#60b56b",
+        "color12": "#ccba60",
+        "color13": "#5954b4",
+        "color14": "#7269cf",
+        "color15": "#3c3c3c"
+    }
+}

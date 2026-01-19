@@ -1,0 +1,28 @@
+{
+    "checksum": "3ac0fbc41091a3ef993ad25b48a4d7d2",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/current_wallpaper_blurred.png",
+    "alpha": "100",
+    "special": {
+        "background": "#f4f3f5",
+        "foreground": "#3d3c3d",
+        "cursor": "#3d3c3d"
+    },
+    "colors": {
+        "color0": "#f4f3f5",
+        "color1": "#746A90",
+        "color2": "#7E7B97",
+        "color3": "#6A5EAA",
+        "color4": "#615AB7",
+        "color5": "#8A71A0",
+        "color6": "#9270C8",
+        "color7": "#7a797a",
+        "color8": "#b7b6b7",
+        "color9": "#968fab",
+        "color10": "#9e9cb1",
+        "color11": "#8f86bf",
+        "color12": "#8883c9",
+        "color13": "#a794b7",
+        "color14": "#ad93d5",
+        "color15": "#3d3c3d"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "7721a52657ea83813f257d5be9ba5836",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2021_6June_5th_-Electric_Holos_electric-drip_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110000",
+        "foreground": "#c2c0c0",
+        "cursor": "#c2c0c0"
+    },
+    "colors": {
+        "color0": "#110000",
+        "color1": "#006bb8",
+        "color2": "#0c3bed",
+        "color3": "#fe16c2",
+        "color4": "#18cdeb",
+        "color5": "#10cafe",
+        "color6": "#5e9cd9",
+        "color7": "#958989",
+        "color8": "#9f1c1c",
+        "color9": "#0898fe",
+        "color10": "#3b63fe",
+        "color11": "#ff4dd2",
+        "color12": "#42e3fe",
+        "color13": "#4ad8fe",
+        "color14": "#699afe",
+        "color15": "#c2c0c0"
+    }
+}

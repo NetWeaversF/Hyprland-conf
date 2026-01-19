@@ -1,17 +1,36 @@
-style = ~/.config/wofi/menu.css
+//   _ _ _ _____ _____ _ 
+//  | | | |     |   __|_|
+//  | | | |  |  |   __| |
+//  |_____|_____|__|  |_|  CONFIG
+//  
+//  by Bina
 
-width=600
-height=500
+
+mode=drun
+allow_images=true
+image_size=30
+prompt= search
+columns=1
+width=480
+height=330
+no_actions=true
+monitor=DP-1
 location=center
-show=drun
-prompt=Apps
+colors=colors
 filter_rate=100
 allow_markup=true
-no_actions=true
 halign=fill
 orientation=vertical
 content_halign=fill
+matching=contains
 insensitive=true
-allow_images=true
-image_size=40
-gtk_dark=true
+term=ghostty
+parse_search=true
+allow_markup=true
+single_click=false
+line_wrap=char
+key_down=Tab
+key_expand=Right
+key_forward=Down
+
+

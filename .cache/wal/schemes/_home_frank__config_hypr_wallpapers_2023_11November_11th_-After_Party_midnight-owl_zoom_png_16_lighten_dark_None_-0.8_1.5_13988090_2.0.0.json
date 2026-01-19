@@ -1,0 +1,28 @@
+{
+    "checksum": "9a3016f72fb5c6b4ede0644df8416994",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_11November_11th_-After_Party_midnight-owl_zoom.png",
+    "alpha": "100",
+    "special": {
+        "background": "#111709",
+        "foreground": "#c3c1c5",
+        "cursor": "#c3c1c5"
+    },
+    "colors": {
+        "color0": "#111709",
+        "color1": "#5b9e1e",
+        "color2": "#38a9cc",
+        "color3": "#8f8648",
+        "color4": "#adbd35",
+        "color5": "#68bd4e",
+        "color6": "#94665d",
+        "color7": "#928d98",
+        "color8": "#69a81d",
+        "color9": "#82b655",
+        "color10": "#7ab4c6",
+        "color11": "#bcb162",
+        "color12": "#b7c271",
+        "color13": "#90c87e",
+        "color14": "#c27d70",
+        "color15": "#c3c1c5"
+    }
+}

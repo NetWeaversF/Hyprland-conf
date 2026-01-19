@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/frank/.config/hypr/wallpapers/HT-stream-2-zoom-background.jpg"
+let background = "#171717"
+let foreground = "#3c3c3d"
+let cursor     = "#3c3c3d"
+
+" Colors
+let color0  = "#171717"
+let color1  = "#523792"
+let color2  = "#64589A"
+let color3  = "#524CB8"
+let color4  = "#906B9E"
+let color5  = "#A667D3"
+let color6  = "#6C9AC0"
+let color7  = "#79797a"
+let color8  = "#b6b6b7"
+let color9  = "#7d69ad"
+let color10 = "#8a81b3"
+let color11 = "#7d78c9"
+let color12 = "#ab90b6"
+let color13 = "#bc8dde"
+let color14 = "#90b3cf"
+let color15 = "#3c3c3d"

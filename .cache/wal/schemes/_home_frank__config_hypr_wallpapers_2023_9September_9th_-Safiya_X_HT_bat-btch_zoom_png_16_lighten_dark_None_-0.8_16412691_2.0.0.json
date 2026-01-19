@@ -1,0 +1,28 @@
+{
+    "checksum": "373db4e3b2ae1451e853b7c8457cdda0",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2023_9September_9th_-Safiya_X_HT_bat-btch_zoom.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1b1b",
+        "foreground": "#c6c2c2",
+        "cursor": "#c6c2c2"
+    },
+    "colors": {
+        "color0": "#0b1b1b",
+        "color1": "#71381b",
+        "color2": "#867315",
+        "color3": "#a57a1e",
+        "color4": "#ca2664",
+        "color5": "#c8aa2d",
+        "color6": "#a9934a",
+        "color7": "#998f8f",
+        "color8": "#1eabab",
+        "color9": "#a16645",
+        "color10": "#a89349",
+        "color11": "#b79959",
+        "color12": "#c27091",
+        "color13": "#c3b372",
+        "color14": "#c2af71",
+        "color15": "#c6c2c2"
+    }
+}

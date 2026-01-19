@@ -1,0 +1,28 @@
+{
+    "checksum": "ca63320cf3843142d54aa24d91150642",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_OTDE_spill_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f3f2f3",
+        "foreground": "#3c3c3c",
+        "cursor": "#3c3c3c"
+    },
+    "colors": {
+        "color0": "#f3f2f3",
+        "color1": "#EF5E65",
+        "color2": "#3BAF48",
+        "color3": "#EFB24A",
+        "color4": "#2D1197",
+        "color5": "#3B48BB",
+        "color6": "#C156A1",
+        "color7": "#797979",
+        "color8": "#b6b5b6",
+        "color9": "#f3868b",
+        "color10": "#6cc375",
+        "color11": "#f3c577",
+        "color12": "#614cb1",
+        "color13": "#6c75cc",
+        "color14": "#d080b8",
+        "color15": "#3c3c3c"
+    }
+}

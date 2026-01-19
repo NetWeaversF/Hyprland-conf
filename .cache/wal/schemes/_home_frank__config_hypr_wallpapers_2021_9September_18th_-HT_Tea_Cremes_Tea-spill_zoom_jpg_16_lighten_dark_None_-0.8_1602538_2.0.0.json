@@ -1,0 +1,28 @@
+{
+    "checksum": "8d2a12de4caaaa16ae49b4914e9066ee",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2021_9September_18th_-HT_Tea_Cremes_Tea-spill_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#260515",
+        "foreground": "#c4c5c4",
+        "cursor": "#c4c5c4"
+    },
+    "colors": {
+        "color0": "#260515",
+        "color1": "#50a7a1",
+        "color2": "#3d7fac",
+        "color3": "#3fd2ab",
+        "color4": "#99938b",
+        "color5": "#446cb8",
+        "color6": "#959ba1",
+        "color7": "#909a9a",
+        "color8": "#ae1e63",
+        "color9": "#73c3bd",
+        "color10": "#6c9fc1",
+        "color11": "#81c9b5",
+        "color12": "#8ba7ce",
+        "color13": "#7793c4",
+        "color14": "#95b1d1",
+        "color15": "#c4c5c4"
+    }
+}

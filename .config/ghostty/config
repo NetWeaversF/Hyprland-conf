@@ -49,8 +49,6 @@
 # resize-overlay-duration = 4s 200ms
 
 font-family = JetbrainsMono
-theme = Dark+
-background = #0d0d0d
 confirm-close-surface=false
 
 shell-integration-features = no-cursor,no-sudo,no-title

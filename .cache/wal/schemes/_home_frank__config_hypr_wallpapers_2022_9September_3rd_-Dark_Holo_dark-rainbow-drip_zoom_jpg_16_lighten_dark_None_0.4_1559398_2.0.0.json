@@ -1,0 +1,28 @@
+{
+    "checksum": "d67e8feb784627c23f6910c65be5d973",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/2022_9September_3rd_-Dark_Holo_dark-rainbow-drip_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120211",
+        "foreground": "#c2c0c2",
+        "cursor": "#c2c0c2"
+    },
+    "colors": {
+        "color0": "#120211",
+        "color1": "#5d296e",
+        "color2": "#d6320a",
+        "color3": "#3fb83f",
+        "color4": "#f2b81e",
+        "color5": "#112dd3",
+        "color6": "#24c6ec",
+        "color7": "#958a95",
+        "color8": "#8f2f8e",
+        "color9": "#b718d8",
+        "color10": "#e95e3c",
+        "color11": "#4dea4d",
+        "color12": "#ecc65e",
+        "color13": "#4058e9",
+        "color14": "#5dd0ec",
+        "color15": "#c2c0c2"
+    }
+}
