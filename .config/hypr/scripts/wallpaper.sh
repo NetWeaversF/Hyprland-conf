@@ -19,9 +19,7 @@ fi
 
 # current wallpaper path
 current_wallpaper=$(cat "$current_wp")
-
-matugen image $current_wallpaper -t scheme-expressive
-
+magick $current_wallpaper -resize 2560x1440\! $current_wallpaper
 # select new wallpaper
 case $1 in
     "init")
@@ -46,7 +44,6 @@ new_wp=$(echo $wallpaper | sed "s|$HOME/.config/hypr/wallpapers/||g")
 source "$HOME/.cache/wal/colors.sh"
 ~/.config/waybar/launch.sh
 
-
 # switch to new wallpaper with swww
 #transition_type="grow"
 transition_type="wipe"
@@ -56,6 +53,15 @@ transition_type="wipe"
 swww img $wallpaper \
     --transition-type=$transition_type \
     --transition-pos center
+
+
+firefox= $(echo pidof firefox)
+dolphin= $(echo pidof dolphin)
+
+if ["$dolphin" != ""]; then
+killall dolphin && hyprctl dispatch exec [workspace 1] dolphin
+fi
+
 
 # create blurred wallpaper (for hyprlock)
 magick $wallpaper -resize 2560x1440\! $wallpaper
@@ -68,8 +74,3 @@ fi
 # update current wallpaper file
 echo "$wallpaper" > "$current_wp"
 
-dolphin= $(echo pidof dolphin)
-
-if ["$dolphin" != ""]; then
-killall dolphin && hyprctl dispatch exec [workspace 1] dolphin
-fi

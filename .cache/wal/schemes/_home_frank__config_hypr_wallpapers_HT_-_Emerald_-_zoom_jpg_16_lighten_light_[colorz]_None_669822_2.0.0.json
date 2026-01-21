@@ -1,0 +1,28 @@
+{
+    "checksum": "174f968cac1c20ebe74ab0fd9fa43f04",
+    "wallpaper": "/home/frank/.config/hypr/wallpapers/HT_-_Emerald_-_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f2f2f3",
+        "foreground": "#3c3c3c",
+        "cursor": "#3c3c3c"
+    },
+    "colors": {
+        "color0": "#f2f2f3",
+        "color1": "#044F4D",
+        "color2": "#076460",
+        "color3": "#4F674B",
+        "color4": "#0A936E",
+        "color5": "#4DA16A",
+        "color6": "#0A6C92",
+        "color7": "#797979",
+        "color8": "#b5b5b6",
+        "color9": "#427b79",
+        "color10": "#458a87",
+        "color11": "#7b8d78",
+        "color12": "#47ae92",
+        "color13": "#79b88f",
+        "color14": "#4790ad",
+        "color15": "#3c3c3c"
+    }
+}
