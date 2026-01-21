@@ -20,3 +20,4 @@ Applications used:
 - hyprshot
 - dolphin
 - ghostty
+- swayosd
