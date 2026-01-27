@@ -7,7 +7,7 @@ Applications used:
 - hyprlock
 - swaync
 - wlogout
-- wofi
+- rofi
 - waybar
 - Kvantum
 - nm-applet
