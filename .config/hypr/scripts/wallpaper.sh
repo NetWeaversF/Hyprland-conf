@@ -6,39 +6,43 @@
 #
 #  by Bina
 
+source "$HOME/.config/hypr/wallpaper.conf"
 
-current_wp="$HOME/.config/hypr/wallpapers/current_wallpaper"
-blurred_wp="$HOME/.config/hypr/wallpapers/current_wallpaper_blurred.png"
+wall_path=$(cat "$HOME/.config/hypr/wallpaper.conf")
+
+current_wp="$HOME/.config/hypr/wallpaper/current_wallpaper"
+blurred_wp="$HOME/.config/hypr/wallpaper/current_wallpaper_blurred.png"
 blur="50x30"
+
 
 # write path to wp into file
 if [ ! -f $current_wp ]; then
     touch $current_wp
-    echo "$HOME/.config/hypr/wallpapers/default.png" > "$current_wp"
+    echo "$wall_path/default.png" > "$current_wp"
 fi
 
 # current wallpaper path
 current_wallpaper=$(cat "$current_wp")
-magick $current_wallpaper -resize 2560x1440\! $current_wallpaper
+
 # select new wallpaper
 case $1 in
     "init")
         if [ -f $current_wp ]; then
-            wal -q -i $current_wallpaper --cols16 lighten -l -b '#171717' --backend [colorz]
+            wal -q -i "$current_wallpaper" --cols16 lighten -b '#171717' 
 
         else
-            wal -q -i ~/.config/hypr/wallpapers/ --cols16 lighten -l -b '#171717' --backend [colorz]
+            wal -q -i $wall_path/ --cols16 lighten -b '#171717' 
 
         fi
     ;;
     # random wallpaper
     *)
-        wal -q -i ~/.config/hypr/wallpapers/ --cols16 lighten -l -b '#171717' --backend [colorz]
+        wal -q -i $wall_path/ --cols16 lighten -b '#171717' 
     ;;
 esac
 
 # new wallpaper name
-new_wp=$(echo $wallpaper | sed "s|$HOME/.config/hypr/wallpapers/||g")
+new_wp=$(echo $wallpaper | sed "s|$wall_path/||g")
 
 # launch waybar based on new wallpaper colors
 source "$HOME/.cache/wal/colors.sh"
@@ -53,14 +57,6 @@ transition_type="wipe"
 swww img $wallpaper \
     --transition-type=$transition_type \
     --transition-pos center
-
-
-firefox= $(echo pidof firefox)
-dolphin= $(echo pidof dolphin)
-
-if ["$dolphin" != ""]; then
-killall dolphin && hyprctl dispatch exec [workspace 1] dolphin
-fi
 
 
 # create blurred wallpaper (for hyprlock)

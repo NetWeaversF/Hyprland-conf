@@ -1,0 +1,28 @@
+#custom-apps.default {
+    background-image: url("assets/default.png");
+    background-size: 28px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#custom-apps.gaming {
+    background-image: url("assets/satisfactorylogo.png");
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#custom-apps.warhammer {
+    background-image: url("assets/darkangelslogo.png");
+    background-size: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#custom-apps.work {
+    font-size: 20px;
+    color: @ws;
+}
+#custom-apps.holo-taco {
+    background-image: url("assets/holotacologo.png");
+    background-size: 28px;
+    background-repeat: no-repeat;
+    background-position: center;   
+}

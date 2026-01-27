@@ -1,0 +1,28 @@
+{
+    "checksum": "e2f9d6a52cb889d3940fcdf2364594d0",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/hololive-dresses.png",
+    "alpha": "100",
+    "special": {
+        "background": "#231110",
+        "foreground": "#c8c3c3",
+        "cursor": "#c8c3c3"
+    },
+    "colors": {
+        "color0": "#231110",
+        "color1": "#AC915C",
+        "color2": "#D49E69",
+        "color3": "#E0C269",
+        "color4": "#735788",
+        "color5": "#8B7484",
+        "color6": "#DAB28D",
+        "color7": "#9c9292",
+        "color8": "#74605e",
+        "color9": "#c7ae7c",
+        "color10": "#d3b698",
+        "color11": "#d5c89f",
+        "color12": "#9a67be",
+        "color13": "#c578ab",
+        "color14": "#dcc5af",
+        "color15": "#c8c3c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "47c78cc65a63e7266b1c9e46660bbbf8",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/warhammer/cristian-alias-ashen-drakes-40k-gallery.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#200d12",
+        "foreground": "#c7c2c3",
+        "cursor": "#c7c2c3"
+    },
+    "colors": {
+        "color0": "#200d12",
+        "color1": "#634B26",
+        "color2": "#705247",
+        "color3": "#9A5A2A",
+        "color4": "#BA5027",
+        "color5": "#956C53",
+        "color6": "#D29B4D",
+        "color7": "#9b9093",
+        "color8": "#715d61",
+        "color9": "#a07d45",
+        "color10": "#b56d52",
+        "color11": "#b88259",
+        "color12": "#be8069",
+        "color13": "#c08b6c",
+        "color14": "#ccb189",
+        "color15": "#c7c2c3"
+    }
+}

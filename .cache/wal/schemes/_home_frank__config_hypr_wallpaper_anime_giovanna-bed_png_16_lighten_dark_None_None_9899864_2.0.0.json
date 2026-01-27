@@ -1,0 +1,28 @@
+{
+    "checksum": "0ce36bbee1600e00df659f742c5cb7d7",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/giovanna-bed.png",
+    "alpha": "100",
+    "special": {
+        "background": "#361f14",
+        "foreground": "#ccc7c4",
+        "cursor": "#ccc7c4"
+    },
+    "colors": {
+        "color0": "#361f14",
+        "color1": "#828081",
+        "color2": "#B4AB95",
+        "color3": "#C8B6A0",
+        "color4": "#BDC4B5",
+        "color5": "#CBC4B4",
+        "color6": "#D2DED4",
+        "color7": "#a19a97",
+        "color8": "#7c6c65",
+        "color9": "#c57aa0",
+        "color10": "#d5c79f",
+        "color11": "#dcc9af",
+        "color12": "#cee0b8",
+        "color13": "#e2d5bb",
+        "color14": "#d5edd8",
+        "color15": "#ccc7c4"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "6c00fbaa79db867de74118ec22ce24a5",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/Bismarck-1-07.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#190a12",
+        "foreground": "#c5c1c3",
+        "cursor": "#c5c1c3"
+    },
+    "colors": {
+        "color0": "#190a12",
+        "color1": "#9D2730",
+        "color2": "#894D3C",
+        "color3": "#9C6756",
+        "color4": "#B48B6E",
+        "color5": "#C69875",
+        "color6": "#D2AF95",
+        "color7": "#988e94",
+        "color8": "#6e5964",
+        "color9": "#b85960",
+        "color10": "#b86e59",
+        "color11": "#c28571",
+        "color12": "#cda68a",
+        "color13": "#d2b198",
+        "color14": "#dcc3af",
+        "color15": "#c5c1c3"
+    }
+}

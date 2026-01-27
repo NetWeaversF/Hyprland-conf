@@ -1,0 +1,28 @@
+{
+    "checksum": "bd7f240d8a81e549f62c426e9171a589",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/work/Lake3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#f3f2f5",
+        "foreground": "#3c3c3d",
+        "cursor": "#3c3c3d"
+    },
+    "colors": {
+        "color0": "#f3f2f5",
+        "color1": "#B95088",
+        "color2": "#4BA4B4",
+        "color3": "#A0A3A8",
+        "color4": "#F3A398",
+        "color5": "#FDD1B5",
+        "color6": "#FEE1BB",
+        "color7": "#79797a",
+        "color8": "#b6b5b7",
+        "color9": "#ca7ba5",
+        "color10": "#78bac6",
+        "color11": "#b7babd",
+        "color12": "#f6bab1",
+        "color13": "#fddcc7",
+        "color14": "#fee8cc",
+        "color15": "#3c3c3d"
+    }
+}

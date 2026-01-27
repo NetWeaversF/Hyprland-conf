@@ -1,0 +1,28 @@
+{
+    "checksum": "489ae29117cd46b9bb3b12f0ba2accb3",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/forest-elf-final.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101510",
+        "foreground": "#c3c4c3",
+        "cursor": "#c3c4c3"
+    },
+    "colors": {
+        "color0": "#101510",
+        "color1": "#62624F",
+        "color2": "#9D643F",
+        "color3": "#987356",
+        "color4": "#649B58",
+        "color5": "#9B8763",
+        "color6": "#B48F70",
+        "color7": "#8e998e",
+        "color8": "#5a6e5a",
+        "color9": "#b3b350",
+        "color10": "#bd8866",
+        "color11": "#c1946f",
+        "color12": "#80c272",
+        "color13": "#c5a978",
+        "color14": "#cdaa8b",
+        "color15": "#c3c4c3"
+    }
+}

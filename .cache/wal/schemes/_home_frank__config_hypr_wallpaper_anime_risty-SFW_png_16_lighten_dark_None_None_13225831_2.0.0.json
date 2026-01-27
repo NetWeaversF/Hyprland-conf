@@ -1,0 +1,28 @@
+{
+    "checksum": "1240173df6046759ad9384b05fdc2166",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/risty-SFW.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1318",
+        "foreground": "#c6c4c5",
+        "cursor": "#c6c4c5"
+    },
+    "colors": {
+        "color0": "#1e1318",
+        "color1": "#96675C",
+        "color2": "#99655A",
+        "color3": "#C14642",
+        "color4": "#B2A873",
+        "color5": "#D29275",
+        "color6": "#887C85",
+        "color7": "#9b9197",
+        "color8": "#725e67",
+        "color9": "#c28271",
+        "color10": "#c27f72",
+        "color11": "#c67d7a",
+        "color12": "#cec38c",
+        "color13": "#d5af9e",
+        "color14": "#c67ab5",
+        "color15": "#c6c4c5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "d6988757fdb09ad8eac494772ea9a76f",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/rebecca-polls-finall.png",
+    "alpha": "100",
+    "special": {
+        "background": "#15181b",
+        "foreground": "#c4c5c6",
+        "cursor": "#c4c5c6"
+    },
+    "colors": {
+        "color0": "#15181b",
+        "color1": "#ACB343",
+        "color2": "#567290",
+        "color3": "#4065A4",
+        "color4": "#997492",
+        "color5": "#6796A0",
+        "color6": "#70A9C9",
+        "color7": "#91989b",
+        "color8": "#5d6772",
+        "color9": "#bdc374",
+        "color10": "#6b94bf",
+        "color11": "#6989bf",
+        "color12": "#c87fbb",
+        "color13": "#7cbac7",
+        "color14": "#96bcd2",
+        "color15": "#c4c5c6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "e7ae6fc88bfe66cc361064b04aadae46",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/ych-nov23-mary-and-emma.png",
+    "alpha": "100",
+    "special": {
+        "background": "#221f13",
+        "foreground": "#c7c7c4",
+        "cursor": "#c7c7c4"
+    },
+    "colors": {
+        "color0": "#221f13",
+        "color1": "#C47035",
+        "color2": "#98764D",
+        "color3": "#798678",
+        "color4": "#A88C60",
+        "color5": "#CE9643",
+        "color6": "#D6A060",
+        "color7": "#9c9b92",
+        "color8": "#74705f",
+        "color9": "#c39575",
+        "color10": "#bf996a",
+        "color11": "#7ec577",
+        "color12": "#c7aa7c",
+        "color13": "#c9ac82",
+        "color14": "#d1b595",
+        "color15": "#c7c7c4"
+    }
+}

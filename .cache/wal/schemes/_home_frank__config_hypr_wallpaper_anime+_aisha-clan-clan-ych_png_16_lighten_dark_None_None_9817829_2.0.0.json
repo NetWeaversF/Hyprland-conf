@@ -1,0 +1,28 @@
+{
+    "checksum": "4ce6b12193646e96d3d2598d1c3d375d",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/aisha-clan-clan-ych.png",
+    "alpha": "100",
+    "special": {
+        "background": "#362015",
+        "foreground": "#ccc7c4",
+        "cursor": "#ccc7c4"
+    },
+    "colors": {
+        "color0": "#362015",
+        "color1": "#4C8779",
+        "color2": "#B28658",
+        "color3": "#9B8476",
+        "color4": "#A58B7C",
+        "color5": "#DC9A6E",
+        "color6": "#AF9685",
+        "color7": "#a19a97",
+        "color8": "#7c6d65",
+        "color9": "#61bba5",
+        "color10": "#c7a47e",
+        "color11": "#c99b82",
+        "color12": "#cca38a",
+        "color13": "#d6b59f",
+        "color14": "#d1ad94",
+        "color15": "#ccc7c4"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "bb9cc719494decb47478897b90506ae8",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/holo-taco/2020_9September_26th_-Multichrome_multichrome-drip_zoom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0404",
+        "foreground": "#c2c0c0",
+        "cursor": "#c2c0c0"
+    },
+    "colors": {
+        "color0": "#0b0404",
+        "color1": "#5F5E5F",
+        "color2": "#9A3A59",
+        "color3": "#4D9647",
+        "color4": "#9FA54B",
+        "color5": "#3E4E9F",
+        "color6": "#B04CA3",
+        "color7": "#958989",
+        "color8": "#665454",
+        "color9": "#b656b6",
+        "color10": "#bb627e",
+        "color11": "#6cbd67",
+        "color12": "#bdc270",
+        "color13": "#6775bd",
+        "color14": "#c476bb",
+        "color15": "#c2c0c0"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "c0d0cac6050f3d563005769c67196300",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/miia.png",
+    "alpha": "100",
+    "special": {
+        "background": "#191e1b",
+        "foreground": "#c5c6c6",
+        "cursor": "#c5c6c6"
+    },
+    "colors": {
+        "color0": "#191e1b",
+        "color1": "#B2B953",
+        "color2": "#A09F67",
+        "color3": "#D9996B",
+        "color4": "#6D7D82",
+        "color5": "#6AB28E",
+        "color6": "#E3B48E",
+        "color7": "#929d98",
+        "color8": "#5f7566",
+        "color9": "#c3c87f",
+        "color10": "#c7c77c",
+        "color11": "#d4b49d",
+        "color12": "#70adc1",
+        "color13": "#88ccaa",
+        "color14": "#dfc7b4",
+        "color15": "#c5c6c6"
+    }
+}

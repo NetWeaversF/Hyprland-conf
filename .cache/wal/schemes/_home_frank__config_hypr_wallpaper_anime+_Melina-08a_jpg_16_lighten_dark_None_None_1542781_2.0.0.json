@@ -1,0 +1,28 @@
+{
+    "checksum": "a61b76ced7f99706a73728b254d4e592",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/Melina-08a.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#221c0f",
+        "foreground": "#c7c6c3",
+        "cursor": "#c7c6c3"
+    },
+    "colors": {
+        "color0": "#221c0f",
+        "color1": "#957669",
+        "color2": "#9A8670",
+        "color3": "#AE8974",
+        "color4": "#C69874",
+        "color5": "#D5A878",
+        "color6": "#E2B77B",
+        "color7": "#9c9891",
+        "color8": "#736c5e",
+        "color9": "#c58f77",
+        "color10": "#c7a57e",
+        "color11": "#cda28a",
+        "color12": "#d2b197",
+        "color13": "#d6bca1",
+        "color14": "#dac6aa",
+        "color15": "#c7c6c3"
+    }
+}

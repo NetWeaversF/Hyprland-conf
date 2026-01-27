@@ -1,0 +1,28 @@
+{
+    "checksum": "9412d8a417366d5cfdca283457086d9a",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/boa-hancock-ych.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1811",
+        "foreground": "#c7c5c3",
+        "cursor": "#c7c5c3"
+    },
+    "colors": {
+        "color0": "#1f1811",
+        "color1": "#7DA66B",
+        "color2": "#B68955",
+        "color3": "#AD9168",
+        "color4": "#D4A061",
+        "color5": "#E3C770",
+        "color6": "#AA7195",
+        "color7": "#9b9791",
+        "color8": "#72675e",
+        "color9": "#97c982",
+        "color10": "#c8a67e",
+        "color11": "#caad83",
+        "color12": "#d1b594",
+        "color13": "#d8cba4",
+        "color14": "#cb87b2",
+        "color15": "#c7c5c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "01400313944f1aaac97bd11360a62019",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/warhammer/aidan-wilson-deathwing-assault.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1612",
+        "foreground": "#c5c4c3",
+        "cursor": "#c5c4c3"
+    },
+    "colors": {
+        "color0": "#1a1612",
+        "color1": "#718A76",
+        "color2": "#AD8C6B",
+        "color3": "#D3A163",
+        "color4": "#E9C76D",
+        "color5": "#B9AD95",
+        "color6": "#EADDA4",
+        "color7": "#9a9790",
+        "color8": "#71675c",
+        "color9": "#76c486",
+        "color10": "#cba785",
+        "color11": "#d2b695",
+        "color12": "#d8cba6",
+        "color13": "#d7c5a1",
+        "color14": "#e5dfc3",
+        "color15": "#c5c4c3"
+    }
+}

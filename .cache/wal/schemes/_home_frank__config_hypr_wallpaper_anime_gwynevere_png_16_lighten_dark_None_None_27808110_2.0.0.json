@@ -1,0 +1,28 @@
+{
+    "checksum": "d6c0d6e4783d8654eea31716ffa0ad09",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/gwynevere.png",
+    "alpha": "100",
+    "special": {
+        "background": "#24100f",
+        "foreground": "#c8c3c3",
+        "cursor": "#c8c3c3"
+    },
+    "colors": {
+        "color0": "#24100f",
+        "color1": "#A84F28",
+        "color2": "#976D59",
+        "color3": "#887D7D",
+        "color4": "#E4A135",
+        "color5": "#A98A6F",
+        "color6": "#D39C61",
+        "color7": "#9c9292",
+        "color8": "#745e5e",
+        "color9": "#ba7b5f",
+        "color10": "#c28a70",
+        "color11": "#c67b7b",
+        "color12": "#cbb085",
+        "color13": "#cba685",
+        "color14": "#d1b394",
+        "color15": "#c8c3c3"
+    }
+}

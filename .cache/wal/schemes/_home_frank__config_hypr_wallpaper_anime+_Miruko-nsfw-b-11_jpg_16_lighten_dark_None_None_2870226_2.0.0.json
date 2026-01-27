@@ -1,0 +1,28 @@
+{
+    "checksum": "ac97731fcdda46dbab84c8fe281eb198",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/Miruko-nsfw-b-11.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#321816",
+        "foreground": "#cbc5c4",
+        "cursor": "#cbc5c4"
+    },
+    "colors": {
+        "color0": "#321816",
+        "color1": "#C87754",
+        "color2": "#AB8871",
+        "color3": "#D99169",
+        "color4": "#E3BE7B",
+        "color5": "#B37E81",
+        "color6": "#BA9E8D",
+        "color7": "#a09797",
+        "color8": "#7b6664",
+        "color9": "#cb9c87",
+        "color10": "#cca288",
+        "color11": "#d4af9b",
+        "color12": "#dac9ab",
+        "color13": "#d09396",
+        "color14": "#d5b39e",
+        "color15": "#cbc5c4"
+    }
+}

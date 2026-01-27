@@ -1,0 +1,28 @@
+{
+    "checksum": "e8f76c68b4038e5ba3aecb934b207ef5",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/ych-rachel-stanley-final.png",
+    "alpha": "100",
+    "special": {
+        "background": "#231814",
+        "foreground": "#c8c5c4",
+        "cursor": "#c8c5c4"
+    },
+    "colors": {
+        "color0": "#231814",
+        "color1": "#D19670",
+        "color2": "#937F85",
+        "color3": "#B59787",
+        "color4": "#D9AF91",
+        "color5": "#BBC6B8",
+        "color6": "#E6C6A5",
+        "color7": "#9d9693",
+        "color8": "#756460",
+        "color9": "#d4b19a",
+        "color10": "#c98395",
+        "color11": "#d3ad98",
+        "color12": "#ddc3b0",
+        "color13": "#c5e1bb",
+        "color14": "#e4d3c2",
+        "color15": "#c8c5c4"
+    }
+}

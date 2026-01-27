@@ -1,0 +1,28 @@
+{
+    "checksum": "bed96b58ba36e1456992d03fd133efab",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/warhammer/tamas-patkos-sis-4-artst.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a0b13",
+        "foreground": "#c5c2c4",
+        "cursor": "#c5c2c4"
+    },
+    "colors": {
+        "color0": "#1a0b13",
+        "color1": "#3C3643",
+        "color2": "#4B3C43",
+        "color3": "#5B4B4F",
+        "color4": "#6F504C",
+        "color5": "#964A46",
+        "color6": "#946759",
+        "color7": "#998e94",
+        "color8": "#6f5a64",
+        "color9": "#644198",
+        "color10": "#9f4472",
+        "color11": "#b04b64",
+        "color12": "#b65f54",
+        "color13": "#bd6a66",
+        "color14": "#c1836e",
+        "color15": "#c5c2c4"
+    }
+}

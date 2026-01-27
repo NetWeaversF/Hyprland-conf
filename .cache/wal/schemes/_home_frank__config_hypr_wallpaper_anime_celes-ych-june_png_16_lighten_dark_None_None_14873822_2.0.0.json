@@ -1,0 +1,28 @@
+{
+    "checksum": "e66455d342c52f3436280372b9593ebb",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/celes-ych-june.png",
+    "alpha": "100",
+    "special": {
+        "background": "#432c25",
+        "foreground": "#d0cac8",
+        "cursor": "#d0cac8"
+    },
+    "colors": {
+        "color0": "#432c25",
+        "color1": "#D8A84D",
+        "color2": "#D4A86A",
+        "color3": "#EAD474",
+        "color4": "#9A768B",
+        "color5": "#D1B091",
+        "color6": "#E6D295",
+        "color7": "#a7a19e",
+        "color8": "#86736e",
+        "color9": "#cdb78c",
+        "color10": "#d3bb99",
+        "color11": "#dad1aa",
+        "color12": "#c981ac",
+        "color13": "#dbc3ac",
+        "color14": "#e1d7b9",
+        "color15": "#d0cac8"
+    }
+}

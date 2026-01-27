@@ -1,0 +1,28 @@
+{
+    "checksum": "ce3f046b8f693ac9bfbcc308d3d399d9",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/warhammer/sororitastb0BLbl.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#170917",
+        "foreground": "#c5c1c5",
+        "cursor": "#c5c1c5"
+    },
+    "colors": {
+        "color0": "#170917",
+        "color1": "#975E62",
+        "color2": "#B88D79",
+        "color3": "#887885",
+        "color4": "#AB9492",
+        "color5": "#D2AB98",
+        "color6": "#EDDCAF",
+        "color7": "#988d98",
+        "color8": "#6d596d",
+        "color9": "#c37379",
+        "color10": "#d0a692",
+        "color11": "#c578b8",
+        "color12": "#d39c99",
+        "color13": "#ddbfb0",
+        "color14": "#e8e0cb",
+        "color15": "#c5c1c5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "0260690d764a5158895f84c6b9d39468",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/#481-sheik-dressing-up.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#101926",
+        "foreground": "#c3c5c8",
+        "cursor": "#c3c5c8"
+    },
+    "colors": {
+        "color0": "#101926",
+        "color1": "#746889",
+        "color2": "#A57091",
+        "color3": "#7A848E",
+        "color4": "#A29697",
+        "color5": "#CEB4A3",
+        "color6": "#DDCBB6",
+        "color7": "#92969d",
+        "color8": "#5f6874",
+        "color9": "#8e70c2",
+        "color10": "#ca83af",
+        "color11": "#7da0c7",
+        "color12": "#d2969d",
+        "color13": "#dfc4b4",
+        "color14": "#e6d8c6",
+        "color15": "#c3c5c8"
+    }
+}

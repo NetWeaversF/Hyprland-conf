@@ -1,0 +1,28 @@
+{
+    "checksum": "bc8d5ff9d276724b63a3e01c1c70d031",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/naoto-polls.png",
+    "alpha": "100",
+    "special": {
+        "background": "#161110",
+        "foreground": "#c4c3c3",
+        "cursor": "#c4c3c3"
+    },
+    "colors": {
+        "color0": "#161110",
+        "color1": "#9B725B",
+        "color2": "#A5905D",
+        "color3": "#D1AC61",
+        "color4": "#DBC160",
+        "color5": "#4C60AE",
+        "color6": "#C4B19B",
+        "color7": "#998f8f",
+        "color8": "#6f5f5a",
+        "color9": "#c39074",
+        "color10": "#c5af7a",
+        "color11": "#d0bc93",
+        "color12": "#d2c698",
+        "color13": "#7585c4",
+        "color14": "#dac4ab",
+        "color15": "#c4c3c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "592f8067053fd395b9a8a9206c6d32fe",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/jasmine-polls.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c161e",
+        "foreground": "#c6c4c6",
+        "cursor": "#c6c4c6"
+    },
+    "colors": {
+        "color0": "#1c161e",
+        "color1": "#C36C5B",
+        "color2": "#61827B",
+        "color3": "#D78C75",
+        "color4": "#355DA1",
+        "color5": "#6C6F95",
+        "color6": "#917695",
+        "color7": "#99929c",
+        "color8": "#6f5e74",
+        "color9": "#cc9389",
+        "color10": "#69bfae",
+        "color11": "#d6ada1",
+        "color12": "#6283bc",
+        "color13": "#7980c5",
+        "color14": "#be7ec8",
+        "color15": "#c6c4c6"
+    }
+}

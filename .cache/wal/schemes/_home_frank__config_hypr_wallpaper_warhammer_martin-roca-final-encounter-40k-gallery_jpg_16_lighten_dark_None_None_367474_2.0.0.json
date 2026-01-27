@@ -1,0 +1,28 @@
+{
+    "checksum": "52f30be8c648dd605a6dc488a4bf08a9",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/warhammer/martin-roca-final-encounter-40k-gallery.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1c21",
+        "foreground": "#c2c6c7",
+        "cursor": "#c2c6c7"
+    },
+    "colors": {
+        "color0": "#0e1c21",
+        "color1": "#758575",
+        "color2": "#A59172",
+        "color3": "#517589",
+        "color4": "#907B81",
+        "color5": "#6B919F",
+        "color6": "#3AABC5",
+        "color7": "#91989b",
+        "color8": "#5d6d72",
+        "color9": "#75c475",
+        "color10": "#caaf85",
+        "color11": "#649dbd",
+        "color12": "#c87e92",
+        "color13": "#7eb3c8",
+        "color14": "#78b7c5",
+        "color15": "#c2c6c7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "886704295389be6b466ae6f0d4dc9093",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/Emilia-nsfw-4.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#271010",
+        "foreground": "#c9c3c3",
+        "cursor": "#c9c3c3"
+    },
+    "colors": {
+        "color0": "#271010",
+        "color1": "#619570",
+        "color2": "#BB8679",
+        "color3": "#B97A85",
+        "color4": "#B58E8E",
+        "color5": "#CC9291",
+        "color6": "#DBABA6",
+        "color7": "#9d9292",
+        "color8": "#755f5f",
+        "color9": "#73c38a",
+        "color10": "#d1a094",
+        "color11": "#d1939e",
+        "color12": "#d49c9c",
+        "color13": "#daaaa9",
+        "color14": "#e2c0bd",
+        "color15": "#c9c3c3"
+    }
+}

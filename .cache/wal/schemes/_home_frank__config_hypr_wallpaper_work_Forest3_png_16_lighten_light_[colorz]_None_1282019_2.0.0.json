@@ -1,0 +1,28 @@
+{
+    "checksum": "4903fa548bdf511440353cfe81c3e25c",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/work/Forest3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#f2f2f5",
+        "foreground": "#3c3c3d",
+        "cursor": "#3c3c3d"
+    },
+    "colors": {
+        "color0": "#f2f2f5",
+        "color1": "#9B857D",
+        "color2": "#E69277",
+        "color3": "#3E51AD",
+        "color4": "#9270C0",
+        "color5": "#C7A2AB",
+        "color6": "#F6D9AB",
+        "color7": "#79797a",
+        "color8": "#b5b5b7",
+        "color9": "#b4a39d",
+        "color10": "#ecad99",
+        "color11": "#6e7cc1",
+        "color12": "#ad93cf",
+        "color13": "#d5b9c0",
+        "color14": "#f8e2c0",
+        "color15": "#3c3c3d"
+    }
+}

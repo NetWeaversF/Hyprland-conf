@@ -1,0 +1,28 @@
+{
+    "checksum": "0401e02be5ebdda3d1404bb0ef7beae5",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/sailor-moon.png",
+    "alpha": "100",
+    "special": {
+        "background": "#311f28",
+        "foreground": "#cbc7c9",
+        "cursor": "#cbc7c9"
+    },
+    "colors": {
+        "color0": "#311f28",
+        "color1": "#C67D82",
+        "color2": "#6E96A2",
+        "color3": "#AA939A",
+        "color4": "#C99793",
+        "color5": "#DBADA6",
+        "color6": "#EFCCB3",
+        "color7": "#a2999e",
+        "color8": "#7e6772",
+        "color9": "#d49ca0",
+        "color10": "#81b8c9",
+        "color11": "#d399aa",
+        "color12": "#daada9",
+        "color13": "#e2c1bd",
+        "color14": "#ead9ce",
+        "color15": "#cbc7c9"
+    }
+}

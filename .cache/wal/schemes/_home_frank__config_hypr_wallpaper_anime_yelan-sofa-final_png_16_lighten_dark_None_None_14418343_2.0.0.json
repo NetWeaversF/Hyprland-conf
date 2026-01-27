@@ -1,0 +1,28 @@
+{
+    "checksum": "804378dbaad47f53971b5de4a858e031",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/yelan-sofa-final.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101013",
+        "foreground": "#c3c3c4",
+        "cursor": "#c3c3c4"
+    },
+    "colors": {
+        "color0": "#101013",
+        "color1": "#6E615E",
+        "color2": "#915738",
+        "color3": "#947261",
+        "color4": "#AE8972",
+        "color5": "#D09F74",
+        "color6": "#3E6090",
+        "color7": "#8e8e98",
+        "color8": "#59596e",
+        "color9": "#ba6d5e",
+        "color10": "#b97d5b",
+        "color11": "#c38e73",
+        "color12": "#cca38a",
+        "color13": "#d4b79c",
+        "color14": "#5e84ba",
+        "color15": "#c3c3c4"
+    }
+}

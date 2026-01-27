@@ -1,0 +1,28 @@
+{
+    "checksum": "84ba88ffafce26d22783b51d7a61c84a",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/Ryuu-Lion-12a.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1e15",
+        "foreground": "#c6c6c4",
+        "cursor": "#c6c6c4"
+    },
+    "colors": {
+        "color0": "#1b1e15",
+        "color1": "#9E9B6A",
+        "color2": "#C79575",
+        "color3": "#C4CC6D",
+        "color4": "#797088",
+        "color5": "#A6B28C",
+        "color6": "#D9AD96",
+        "color7": "#999c91",
+        "color8": "#6c735e",
+        "color9": "#c7c37d",
+        "color10": "#d3af98",
+        "color11": "#cdd296",
+        "color12": "#9374c3",
+        "color13": "#c1d399",
+        "color14": "#dec2b3",
+        "color15": "#c6c6c4"
+    }
+}

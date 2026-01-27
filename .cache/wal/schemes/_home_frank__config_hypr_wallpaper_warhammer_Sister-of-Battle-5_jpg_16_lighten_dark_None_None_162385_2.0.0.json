@@ -1,0 +1,28 @@
+{
+    "checksum": "80d7573810131e242de4bf8a8f069c8c",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/warhammer/Sister-of-Battle-5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a0d0b",
+        "foreground": "#c5c2c2",
+        "cursor": "#c5c2c2"
+    },
+    "colors": {
+        "color0": "#1a0d0b",
+        "color1": "#69453B",
+        "color2": "#613C43",
+        "color3": "#5F4444",
+        "color4": "#714A46",
+        "color5": "#986457",
+        "color6": "#AB6B59",
+        "color7": "#99908e",
+        "color8": "#6f5c5a",
+        "color9": "#af5f4b",
+        "color10": "#aa495e",
+        "color11": "#ae4a4a",
+        "color12": "#b55c52",
+        "color13": "#c17f70",
+        "color14": "#c68c7b",
+        "color15": "#c5c2c2"
+    }
+}

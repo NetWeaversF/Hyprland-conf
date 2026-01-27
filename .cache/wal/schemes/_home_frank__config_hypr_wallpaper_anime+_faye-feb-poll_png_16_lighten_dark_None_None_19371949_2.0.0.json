@@ -1,0 +1,28 @@
+{
+    "checksum": "e0b8acf3929728a4b40d4e91d51b95ec",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/faye-feb-poll.png",
+    "alpha": "100",
+    "special": {
+        "background": "#22150e",
+        "foreground": "#c7c4c2",
+        "cursor": "#c7c4c2"
+    },
+    "colors": {
+        "color0": "#22150e",
+        "color1": "#9A4727",
+        "color2": "#93685E",
+        "color3": "#AB8872",
+        "color4": "#D29746",
+        "color5": "#607F98",
+        "color6": "#B1938C",
+        "color7": "#9b9491",
+        "color8": "#72645e",
+        "color9": "#b77258",
+        "color10": "#c27f71",
+        "color11": "#cca188",
+        "color12": "#cbae85",
+        "color13": "#74a1c3",
+        "color14": "#d3a598",
+        "color15": "#c7c4c2"
+    }
+}

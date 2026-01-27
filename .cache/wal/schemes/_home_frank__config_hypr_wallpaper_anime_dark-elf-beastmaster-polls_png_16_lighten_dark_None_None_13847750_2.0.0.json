@@ -1,0 +1,28 @@
+{
+    "checksum": "b3b493771d52f5ea452d19792f4340a1",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/dark-elf-beastmaster-polls.png",
+    "alpha": "100",
+    "special": {
+        "background": "#20140e",
+        "foreground": "#c7c4c2",
+        "cursor": "#c7c4c2"
+    },
+    "colors": {
+        "color0": "#20140e",
+        "color1": "#6E4E30",
+        "color2": "#68674D",
+        "color3": "#B75C2A",
+        "color4": "#A45731",
+        "color5": "#A36B4A",
+        "color6": "#6F8A69",
+        "color7": "#9b9490",
+        "color8": "#72645d",
+        "color9": "#ab7949",
+        "color10": "#b4b451",
+        "color11": "#be8769",
+        "color12": "#bb8062",
+        "color13": "#c18e6f",
+        "color14": "#82c272",
+        "color15": "#c7c4c2"
+    }
+}

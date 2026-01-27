@@ -1,0 +1,419 @@
+
+
+/* pywal colors */ 
+@import '../../.cache/wal/colors-waybar.css';
+@define-color ws @color9;
+@define-color tt @color9;
+@define-color clock @color10;
+@define-color set @color12;
+@define-color tb rgba(200,200,200,0.2);
+@define-color tbh @color13;
+@define-color text #e6e6e6;
+@define-color background #171717;
+@define-color background-container #272727;
+@define-color hover #474747;
+
+/* general */
+* {
+font-family: JetbrainsMono Nerd Font, Arimo;
+font-size: 14px;
+min-height: 0;
+padding-right: 2px;
+padding-left: 2px;
+padding-bottom: 0px;
+margin: 0px;
+}
+
+window#waybar {
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+#waybar > box {
+opacity: 1;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+padding-left: 1px;
+padding-right: 1px;
+border-radius: 10px;
+border: solid 1px @color1;
+background: @background;
+}
+
+#custom-apps {
+    background: @background-container;
+    margin: 4px 2px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 0 1rem;
+}
+
+@import '../../.config/waybar/custom-apps.css';
+
+menu {
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    background: @background;
+    color: @text;
+}
+
+menuitem {
+    border-radius: 5px;
+}
+
+menuitem:hover {
+    border-color: @ws;
+    background-color: transparent;
+
+}
+
+
+
+/* workspaces */
+#workspaces {
+margin: 4px 2px;
+background: @background-container;
+padding: 0px 2px;
+}
+
+
+#workspaces button {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 0;
+    color: @ws;
+    transition: all 0.3s ease-in-out;
+
+}
+
+#workspaces button.active {
+    margin: 0px;
+    border-radius: 0;
+    color: @ws;
+    border-bottom: solid 2px @ws;
+    transition: all 0.3s ease-in-out;
+}
+
+#workspaces button.empty {
+    margin: 0px;
+    border-radius: 0;
+    color: @text;
+}
+
+#workspaces button:hover {
+    margin: 0px;
+    background: @hover;
+    border-radius: 0;
+    border: solid 2px transparent;
+}
+
+/* taskbar */
+#taskbar {
+    background: @background-container;
+    margin: 4px 1px 4px 1px;
+    padding: 0px;
+}
+
+#taskbar button {
+    margin: 0px 1px;
+    border-radius: 5px;
+    padding: 0px 5px;
+}
+
+#taskbar button:hover {
+    background: @tbh;
+    opacity: 1;
+    border: none;
+    box-shadow: none;
+}
+
+/* tooltip */
+tooltip {
+    border-radius: 5px;
+    background-color: @background-container;
+    opacity: 0.9;
+}
+
+tooltip label {
+    border-radius: 5px;
+    background-color: @background-container;
+    opacity: 0.9;
+    padding: 1px;
+    margin: 0px 0px;
+    font-size: 14px;
+    color: @text;
+}
+
+/* modules */
+.modules-left > widget:first-child > #workspaces {
+    margin-left: 0;
+}
+
+.modules-right > widget:last-child > #workspaces {
+    margin-right: 0;
+}
+
+#custom-server_status_1,
+#custom-server_status_2,
+#custom-server_status_3,
+#custom-server_status_4 {
+background-color: @background-container;
+padding: 0 1rem;
+margin: 4px 2px;
+background-size: 25px;
+background-repeat: no-repeat;
+background-position: 10px;
+padding-left: 40px;
+padding-right: 10px;
+}
+
+#custom-server_status_4 {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#custom-server_status_4 {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#custom-server_status_1.up{
+    background-image: url("assets/satisfactorylogo.png");
+    color: #c3e88d;
+}
+
+#custom-server_status_2.up {
+background-image: url("assets/Rust-Logo.jpg");
+   color: #c3e88d;
+}
+
+#custom-server_status_3.up {
+background-image: url("assets/truenas.png");
+   color: #c3e88d;
+}
+
+#custom-server_status_4.up {
+background-image: url("assets/homeassistantlogo.jpeg");
+   color: #c3e88d;
+}
+
+#custom-server_status_1.down{
+    background-image: url("assets/satisfactorylogo.png");
+    color: #ea999c;
+}
+
+#custom-server_status_2.down {
+background-image: url("assets/Rust-Logo.jpg");
+   color: #ea999c;
+}
+
+#custom-server_status_3.down {
+background-image: url("assets/truenas.png");
+   color: #ea999c;
+}
+
+#custom-server_status_4.down {
+background-image: url("assets/homeassistantlogo.jpeg");
+   color: #ea999c;
+}
+
+/* clock */
+#clock {
+    background-color: @background-container;
+    font-size: 16px;
+    color: @clock;
+    border-radius: 5px;
+    padding: 1px 10px 0px 10px;
+    margin: 4px 1px;
+    border: none;   
+}
+
+#hardware {
+    background-color: @background-container;
+    margin: 4px -15px 4px 2px;
+    font-size: 16px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+/* hardware group */
+#cpu,#temperature,#disk,#memory {
+    background-color: @background-container;
+    margin: 4px 2px;
+    padding: 0 8px;
+    font-size: 16px;
+    color: @color14;
+}
+
+#cpu {
+    border-top-left-radius: 5px ;
+    border-bottom-left-radius: 5px;
+}
+
+#memory {
+    border-top-right-radius: 5px ;
+    border-bottom-right-radius: 5px;
+}
+#mpris {
+    background-color: @background-container;
+    font-size: 16px;
+    color: @set;
+    padding: 1px 10px 0px 10px;
+    margin: 4px 2px;
+    margin-left: 4px;
+}
+/* audio */
+#pulseaudio {
+    background-color: @background-container;
+    font-size: 16px;
+    color: @set;
+    padding: 1px 10px 0px 10px;
+    margin: 4px 2px;
+}
+
+/* network */
+#network {
+    background-color: @background-container;
+    font-size: 17px;
+    color: @set;
+    padding: 0 11px;
+    margin: 4px 2px;
+
+}
+
+#network.ethernet {
+    background-color: @background-container;
+    color: @set;
+}
+
+#network.wifi {
+    background-color: @background-container;
+    color: @set;
+}
+
+/* bluetooth */
+#bluetooth, #bluetooth.on, #bluetooth.connected, #bluetooth.off {
+    background-color: @background-container;
+    font-size: 16px;
+    color: @set;
+    border-radius: 5px;
+    padding: 1px 10px 0px 10px;
+    margin: 4px 2px;
+}
+
+/* battery */
+#battery {
+    background-color: @background-container;
+    font-size: 16px;
+    color: @set;
+    border-radius: 5px;
+    padding: 1px 10px 0px 10px;
+    margin: 4px 2px;
+    opacity: 0.9;
+}
+
+#battery.charging, #battery.plugged {
+    color: @set;
+    background-color: @background-container;
+}
+
+@keyframes blink {
+    to {
+        background-color: @background-container;
+        color: @set;
+    }
+}
+
+#battery.critical:not(.charging) {
+    background-color: #f53c3c;
+    color: @set;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* tray */
+#tray {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: @set;
+    background-color: @background-container;
+    margin: 4px 2px;
+}
+
+
+/* custom modules */
+#custom-exit {
+    margin: 4px 2px;
+    padding-left: 9px;
+    padding-right: 10px;
+    font-size: 16px;
+    color: @set;
+    background-color: @background-container;
+}
+
+#custom-system {
+    margin-right: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: @set;
+    background-color: @background-container;
+}
+
+#custom-settings {
+    margin: 4px 2px;
+    font-size: 20px;
+    font-weight: bold;
+    color: @set;
+    background-color: @background-container;
+}
+
+#custom-updates {
+    background-color: @background-container;
+    font-size: 16px;
+    color: @set;
+    border-radius: 5px;
+    padding: 2px 10px 0px 10px;
+    margin: 8px 15px 8px 0px;
+}
+
+#custom-updates.green {
+    background-color: @background-container;
+}
+
+#custom-updates.yellow {
+    background-color: #ff9a3c;
+    color: #FFFFFF;
+}
+
+#custom-updates.red {
+    background-color: #dc2f2f;
+    color: #FFFFFF;
+}
+#custom-notification {
+background-color: @background-container;
+font-family: "Bebas Neue Nerd Font";
+font-size: 16px;
+color: @set;
+padding-left: 5px;
+padding-right: 5px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+margin-right: 1rem;
+margin-left: 3rem;
+margin: 4px 2px;
+}
+#custom-lock {
+background-color: @background-container;
+color: @set;
+font-size: 16px;
+margin: 4px 2px;
+padding-left: 11px;
+padding-right: 12px;
+}
+

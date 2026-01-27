@@ -1,0 +1,28 @@
+{
+    "checksum": "8afb71a4477625c6737c65274ccfd81b",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/work/Mountain4.png",
+    "alpha": "100",
+    "special": {
+        "background": "#f3f3f4",
+        "foreground": "#3c3c3d",
+        "cursor": "#3c3c3d"
+    },
+    "colors": {
+        "color0": "#f3f3f4",
+        "color1": "#254D91",
+        "color2": "#20549A",
+        "color3": "#155AA5",
+        "color4": "#1969B0",
+        "color5": "#2670B1",
+        "color6": "#2D94CD",
+        "color7": "#79797a",
+        "color8": "#b6b6b7",
+        "color9": "#5b79ac",
+        "color10": "#577eb3",
+        "color11": "#4f83bb",
+        "color12": "#528ec3",
+        "color13": "#5c93c4",
+        "color14": "#61aed9",
+        "color15": "#3c3c3d"
+    }
+}

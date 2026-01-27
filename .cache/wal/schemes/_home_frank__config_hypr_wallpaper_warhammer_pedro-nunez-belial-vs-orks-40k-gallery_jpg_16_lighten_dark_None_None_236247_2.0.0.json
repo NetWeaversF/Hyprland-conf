@@ -1,0 +1,28 @@
+{
+    "checksum": "266e0aea5eb30b5c15051c58cdcf82ca",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/warhammer/pedro-nunez-belial-vs-orks-40k-gallery.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1c17",
+        "foreground": "#c2c6c5",
+        "cursor": "#c2c6c5"
+    },
+    "colors": {
+        "color0": "#0c1c17",
+        "color1": "#5E6352",
+        "color2": "#916F45",
+        "color3": "#618176",
+        "color4": "#9E9263",
+        "color5": "#D2A34C",
+        "color6": "#60A7BA",
+        "color7": "#8f9996",
+        "color8": "#5b706a",
+        "color9": "#96b452",
+        "color10": "#bc9462",
+        "color11": "#69bea2",
+        "color12": "#c5b67a",
+        "color13": "#ccb488",
+        "color14": "#86bdcb",
+        "color15": "#c2c6c5"
+    }
+}

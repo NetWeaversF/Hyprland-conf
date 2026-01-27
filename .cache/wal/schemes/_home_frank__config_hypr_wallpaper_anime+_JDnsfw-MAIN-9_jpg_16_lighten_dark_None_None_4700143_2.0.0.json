@@ -1,0 +1,28 @@
+{
+    "checksum": "6599ea077d356fb1660c6783241ed652",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/JDnsfw-MAIN-9.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c0c11",
+        "foreground": "#c6c2c3",
+        "cursor": "#c6c2c3"
+    },
+    "colors": {
+        "color0": "#1c0c11",
+        "color1": "#9C6C62",
+        "color2": "#C08666",
+        "color3": "#D08F71",
+        "color4": "#7E6B94",
+        "color5": "#AD9A9B",
+        "color6": "#D7A395",
+        "color7": "#998f92",
+        "color8": "#705b61",
+        "color9": "#c58477",
+        "color10": "#cea48c",
+        "color11": "#d4ad9a",
+        "color12": "#9c78c5",
+        "color13": "#d59ea2",
+        "color14": "#debbb2",
+        "color15": "#c6c2c3"
+    }
+}

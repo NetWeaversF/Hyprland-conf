@@ -1,0 +1,28 @@
+{
+    "checksum": "4f01abdc2ac601a4e6942c3cc3f8eb1e",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/ych-nov22-nino.png",
+    "alpha": "100",
+    "special": {
+        "background": "#35233c",
+        "foreground": "#ccc8ce",
+        "cursor": "#ccc8ce"
+    },
+    "colors": {
+        "color0": "#35233c",
+        "color1": "#A471DD",
+        "color2": "#A78C8F",
+        "color3": "#BB9FBD",
+        "color4": "#D28E98",
+        "color5": "#D69FA8",
+        "color6": "#F0CBBA",
+        "color7": "#a39ca6",
+        "color8": "#7c6b84",
+        "color9": "#baa1d7",
+        "color10": "#d1939c",
+        "color11": "#d8a9da",
+        "color12": "#dbabb2",
+        "color13": "#e0b6bc",
+        "color14": "#ebdad2",
+        "color15": "#ccc8ce"
+    }
+}

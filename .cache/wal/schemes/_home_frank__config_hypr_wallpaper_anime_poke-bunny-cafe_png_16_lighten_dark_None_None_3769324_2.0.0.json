@@ -1,0 +1,28 @@
+{
+    "checksum": "cc9750d58235b1b9927665b4dcfb55d2",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/poke-bunny-cafe.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1e1e",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1c1e1e",
+        "color1": "#A59072",
+        "color2": "#D2A56F",
+        "color3": "#DAC861",
+        "color4": "#6C848F",
+        "color5": "#A29589",
+        "color6": "#D8B58A",
+        "color7": "#939d9d",
+        "color8": "#607676",
+        "color9": "#caad85",
+        "color10": "#d4ba9b",
+        "color11": "#d2c998",
+        "color12": "#76aac4",
+        "color13": "#cfad8f",
+        "color14": "#dbc6ac",
+        "color15": "#c6c6c6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "79ff6fbcc96d6abdb20231b91d72ba47",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/jenna-golden-sun.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1e1b",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1e1e1b",
+        "color1": "#976956",
+        "color2": "#867676",
+        "color3": "#B3904E",
+        "color4": "#E2A368",
+        "color5": "#EBC569",
+        "color6": "#EBB799",
+        "color7": "#9d9d93",
+        "color8": "#757560",
+        "color9": "#c1866f",
+        "color10": "#c47777",
+        "color11": "#c5aa7a",
+        "color12": "#d6ba9f",
+        "color13": "#d8c9a5",
+        "color14": "#e3ccbe",
+        "color15": "#c6c6c6"
+    }
+}

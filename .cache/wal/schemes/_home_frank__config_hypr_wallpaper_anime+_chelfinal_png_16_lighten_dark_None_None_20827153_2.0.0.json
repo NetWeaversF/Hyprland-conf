@@ -1,0 +1,28 @@
+{
+    "checksum": "92b37b26312efbfd8f5ef0c20062b1f1",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/chelfinal.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1318",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#1a1318",
+        "color1": "#96654F",
+        "color2": "#709873",
+        "color3": "#A49964",
+        "color4": "#C5B75F",
+        "color5": "#D59E65",
+        "color6": "#BFBA8E",
+        "color7": "#9a909a",
+        "color8": "#715d69",
+        "color9": "#bf846b",
+        "color10": "#7cc784",
+        "color11": "#c7ba7c",
+        "color12": "#cdc58c",
+        "color13": "#d2b597",
+        "color14": "#d7d1a1",
+        "color15": "#c5c4c5"
+    }
+}

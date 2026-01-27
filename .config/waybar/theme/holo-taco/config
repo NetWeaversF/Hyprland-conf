@@ -1,0 +1,41 @@
+
+{
+	// load modules
+	"include": "~/.config/waybar/modules.json",
+	
+	// general settings
+	"position": "top",
+	"margin-top": 5,
+	"margin-bottom": 0,
+	"layer": "top",
+	"margin-left": 5,
+	"margin-right": 5,    
+	"spacing": 0,
+	"fixed-center": true,
+	"exclusive": true,
+	"output": ["DP-1", "DP-2"],
+	
+	// modules
+	"modules-left": [
+			"custom/apps",
+	    	"hyprland/workspaces",
+			"custom/server_status_1",
+        	"custom/server_status_2",
+        	"custom/server_status_3",
+        	"custom/server_status_4"
+        ],
+        
+    "modules-center": ["clock"],
+        
+    "modules-right": [
+           "group/hardware",
+		   "mpris",
+           "pulseaudio",
+           "network",
+		   "tray", 
+		   "custom/lock",
+           "custom/exit",
+		   "custom/notification"
+        ]
+}
+

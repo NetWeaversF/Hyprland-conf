@@ -1,0 +1,28 @@
+{
+    "checksum": "50260285cc785952fe5b42bb9fb892d2",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/Zelda-firdt-night-1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2b1918",
+        "foreground": "#cac5c5",
+        "cursor": "#cac5c5"
+    },
+    "colors": {
+        "color0": "#2b1918",
+        "color1": "#AB776D",
+        "color2": "#B78577",
+        "color3": "#C2897B",
+        "color4": "#B17E80",
+        "color5": "#CB968E",
+        "color6": "#D9A79E",
+        "color7": "#a09696",
+        "color8": "#796563",
+        "color9": "#cb9185",
+        "color10": "#d09e91",
+        "color11": "#d3a499",
+        "color12": "#d09193",
+        "color13": "#d9aea8",
+        "color14": "#e0beb7",
+        "color15": "#cac5c5"
+    }
+}

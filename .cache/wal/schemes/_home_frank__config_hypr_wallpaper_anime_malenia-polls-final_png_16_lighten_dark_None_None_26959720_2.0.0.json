@@ -1,0 +1,28 @@
+{
+    "checksum": "1f001bd8d94799a67cda9c25afacbb6e",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/malenia-polls-final.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1a18",
+        "foreground": "#c7c5c5",
+        "cursor": "#c7c5c5"
+    },
+    "colors": {
+        "color0": "#1f1a18",
+        "color1": "#D69672",
+        "color2": "#D8C067",
+        "color3": "#7C6F83",
+        "color4": "#85738A",
+        "color5": "#9B9D93",
+        "color6": "#D5AB8E",
+        "color7": "#9d9393",
+        "color8": "#75685f",
+        "color9": "#d5b29f",
+        "color10": "#d3c79a",
+        "color11": "#a272c2",
+        "color12": "#b277c5",
+        "color13": "#c7d092",
+        "color14": "#dbc0ad",
+        "color15": "#c7c5c5"
+    }
+}

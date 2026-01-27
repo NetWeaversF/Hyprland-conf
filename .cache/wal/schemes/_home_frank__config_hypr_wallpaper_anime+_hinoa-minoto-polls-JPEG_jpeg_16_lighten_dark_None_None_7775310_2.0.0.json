@@ -1,0 +1,28 @@
+{
+    "checksum": "a1f991a229949562b02262c618d4c431",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/hinoa-minoto-polls-JPEG.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d1b12",
+        "foreground": "#c6c6c3",
+        "cursor": "#c6c6c3"
+    },
+    "colors": {
+        "color0": "#1d1b12",
+        "color1": "#907254",
+        "color2": "#957B60",
+        "color3": "#9A856A",
+        "color4": "#AB8C6F",
+        "color5": "#E0A96B",
+        "color6": "#5D7192",
+        "color7": "#9b9991",
+        "color8": "#726d5d",
+        "color9": "#bf9569",
+        "color10": "#c39d73",
+        "color11": "#c6a57b",
+        "color12": "#cba787",
+        "color13": "#d6bda0",
+        "color14": "#708ec1",
+        "color15": "#c6c6c3"
+    }
+}

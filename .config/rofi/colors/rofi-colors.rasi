@@ -1,0 +1,16 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Colors
+ **/
+@import "~/.config/rofi/colors/rofi-wal-colors.rasi"
+* {
+    background:     @background;
+    background-alt: #282B31FF;
+    foreground:     #FFFFFFFF;
+    selected:       @selected;
+    active:         @active;
+    urgent:         @urgent;
+}

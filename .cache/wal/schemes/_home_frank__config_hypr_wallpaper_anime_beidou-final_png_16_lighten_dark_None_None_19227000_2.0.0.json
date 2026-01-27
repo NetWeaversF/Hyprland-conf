@@ -1,0 +1,28 @@
+{
+    "checksum": "013a02eed0dafd0e5ebf112c87a89132",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/beidou-final.png",
+    "alpha": "100",
+    "special": {
+        "background": "#150911",
+        "foreground": "#c4c1c3",
+        "cursor": "#c4c1c3"
+    },
+    "colors": {
+        "color0": "#150911",
+        "color1": "#9C422B",
+        "color2": "#A7502B",
+        "color3": "#D66622",
+        "color4": "#9D6C54",
+        "color5": "#E9A254",
+        "color6": "#F9A854",
+        "color7": "#978d93",
+        "color8": "#6c5866",
+        "color9": "#b86e5b",
+        "color10": "#bb7b61",
+        "color11": "#c39275",
+        "color12": "#c28b70",
+        "color13": "#d3b798",
+        "color14": "#d6bca1",
+        "color15": "#c4c1c3"
+    }
+}

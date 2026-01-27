@@ -1,0 +1,28 @@
+{
+    "checksum": "c808e0e81cdec07dd3e8838c4ae82d37",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/#443-final.png",
+    "alpha": "100",
+    "special": {
+        "background": "#151017",
+        "foreground": "#c4c3c5",
+        "cursor": "#c4c3c5"
+    },
+    "colors": {
+        "color0": "#151017",
+        "color1": "#E8AC45",
+        "color2": "#3D66A5",
+        "color3": "#5A6F95",
+        "color4": "#977987",
+        "color5": "#827EC6",
+        "color6": "#54A1D7",
+        "color7": "#968f99",
+        "color8": "#675b6f",
+        "color9": "#cfb890",
+        "color10": "#698bbe",
+        "color11": "#708dc1",
+        "color12": "#c981a3",
+        "color13": "#a09dd4",
+        "color14": "#8fb4cf",
+        "color15": "#c4c3c5"
+    }
+}

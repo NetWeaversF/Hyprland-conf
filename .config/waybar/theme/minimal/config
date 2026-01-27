@@ -1,0 +1,35 @@
+
+{
+	// load modules
+	"include": "~/.config/waybar/modules.json",
+	
+	// general settings
+	"position": "top",
+	"margin-top": 5,
+	"margin-bottom": 0,
+	"layer": "top",
+	"margin-left": 5,
+	"margin-right": 5,    
+	"spacing": 0,
+	"fixed-center": true,
+	"exclusive": true,
+	"output": ["DP-1", "DP-2"],
+	
+	// modules
+	"modules-left": [
+
+        ],
+        
+    "modules-center": [
+			"custom/apps",
+			"hyprland/workspaces",
+			"clock",
+		   	"custom/notification",
+			"custom/exit"
+		],
+        
+    "modules-right": [
+
+        ]
+}
+

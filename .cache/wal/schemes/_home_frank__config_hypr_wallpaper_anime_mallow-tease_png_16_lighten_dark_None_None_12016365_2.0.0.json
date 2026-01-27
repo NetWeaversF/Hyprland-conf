@@ -1,0 +1,28 @@
+{
+    "checksum": "c3d27ec59f2c6434f71d2c104082c66a",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/mallow-tease.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121315",
+        "foreground": "#c3c4c4",
+        "cursor": "#c3c4c4"
+    },
+    "colors": {
+        "color0": "#121315",
+        "color1": "#BA623D",
+        "color2": "#8B6F56",
+        "color3": "#A17153",
+        "color4": "#678673",
+        "color5": "#9E8A72",
+        "color6": "#68B9A8",
+        "color7": "#8f8f99",
+        "color8": "#5a646f",
+        "color9": "#c38b74",
+        "color10": "#be9169",
+        "color11": "#c39173",
+        "color12": "#6fc18f",
+        "color13": "#c9a881",
+        "color14": "#8accbe",
+        "color15": "#c3c4c4"
+    }
+}

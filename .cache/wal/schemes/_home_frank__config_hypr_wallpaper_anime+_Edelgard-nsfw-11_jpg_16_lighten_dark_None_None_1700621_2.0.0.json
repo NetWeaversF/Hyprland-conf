@@ -1,0 +1,28 @@
+{
+    "checksum": "c18bb056785505bf7f60f7da90f0e96a",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/Edelgard-nsfw-11.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#190c0b",
+        "foreground": "#c5c2c2",
+        "cursor": "#c5c2c2"
+    },
+    "colors": {
+        "color0": "#190c0b",
+        "color1": "#734A49",
+        "color2": "#9C1F27",
+        "color3": "#BB3C43",
+        "color4": "#996159",
+        "color5": "#BE8876",
+        "color6": "#A97E81",
+        "color7": "#998e8e",
+        "color8": "#6e5c5a",
+        "color9": "#b65855",
+        "color10": "#b6545b",
+        "color11": "#c37479",
+        "color12": "#c27b71",
+        "color13": "#d1a394",
+        "color14": "#ce8d91",
+        "color15": "#c5c2c2"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "cba9a50458896501d450c0cfc3ed6175",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/496-ych-forest-png-FINAL.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181e1d",
+        "foreground": "#c5c6c6",
+        "cursor": "#c5c6c6"
+    },
+    "colors": {
+        "color0": "#181e1d",
+        "color1": "#8D906F",
+        "color2": "#9EA771",
+        "color3": "#C4BE75",
+        "color4": "#767489",
+        "color5": "#95928E",
+        "color6": "#A6AE98",
+        "color7": "#929d9d",
+        "color8": "#5f7474",
+        "color9": "#bfc578",
+        "color10": "#bfcb85",
+        "color11": "#d2ce96",
+        "color12": "#8077c4",
+        "color13": "#cdb38b",
+        "color14": "#c1d59d",
+        "color15": "#c5c6c6"
+    }
+}

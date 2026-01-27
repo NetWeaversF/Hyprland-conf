@@ -1,0 +1,28 @@
+{
+    "checksum": "0a5461a95eadd069dd45cc64a11b71eb",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/naked-maria-final.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b1a",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0b0b1a",
+        "color1": "#3B4854",
+        "color2": "#5E5B5C",
+        "color3": "#BA5848",
+        "color4": "#916966",
+        "color5": "#98867D",
+        "color6": "#A1AAA4",
+        "color7": "#8e8e99",
+        "color8": "#5a5a6f",
+        "color9": "#4674a3",
+        "color10": "#b55454",
+        "color11": "#c5847a",
+        "color12": "#c37974",
+        "color13": "#ca9c83",
+        "color14": "#a0d6af",
+        "color15": "#c2c2c5"
+    }
+}

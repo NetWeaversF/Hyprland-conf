@@ -1,0 +1,28 @@
+{
+    "checksum": "a2096f7a1afc790d661571e140ef549f",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime/Yuzuriha-01a.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151310",
+        "foreground": "#c4c4c3",
+        "cursor": "#c4c4c3"
+    },
+    "colors": {
+        "color0": "#151310",
+        "color1": "#A2633F",
+        "color2": "#5B843D",
+        "color3": "#68934D",
+        "color4": "#91AA5F",
+        "color5": "#B9A64D",
+        "color6": "#794B89",
+        "color7": "#99948e",
+        "color8": "#6e675a",
+        "color9": "#be8869",
+        "color10": "#81b757",
+        "color11": "#88be68",
+        "color12": "#aec77e",
+        "color13": "#c6b97c",
+        "color14": "#a462bb",
+        "color15": "#c4c4c3"
+    }
+}

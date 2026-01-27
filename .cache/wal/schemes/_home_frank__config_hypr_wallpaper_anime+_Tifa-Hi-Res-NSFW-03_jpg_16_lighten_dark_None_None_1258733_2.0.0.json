@@ -1,0 +1,28 @@
+{
+    "checksum": "00a47822cb52dc03dd944a19329b57bc",
+    "wallpaper": "/home/frank/.config/hypr/wallpaper/anime+/Tifa-Hi-Res-NSFW-03.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161313",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#161313",
+        "color1": "#A19598",
+        "color2": "#D2ADA1",
+        "color3": "#E4C5B9",
+        "color4": "#97BACF",
+        "color5": "#C8BCC4",
+        "color6": "#9FC6DE",
+        "color7": "#9a8f8f",
+        "color8": "#705b5b",
+        "color9": "#d195a2",
+        "color10": "#dfbfb5",
+        "color11": "#e8d3cb",
+        "color12": "#afcbdc",
+        "color13": "#e3bdd6",
+        "color14": "#bbd3e1",
+        "color15": "#c4c4c4"
+    }
+}
